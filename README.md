@@ -5,6 +5,7 @@
 ### BLIP-2
 
 #### Huggingface Env Setup
+- Link: https://huggingface.co/docs/transformers/main/model_doc/blip-2#transformers.Blip2ForConditionalGeneration
 - Create virtual environment
     ```bash=
     virtualenv ADL
