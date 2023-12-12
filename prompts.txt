@@ -1,0 +1,8 @@
+blip2_gen_stanford.json
+
+prompts = [
+    "Question: Where is this place? Answer:" -> where
+    "Question: What is in here? Answer:" -> what
+    "Question: Which emotion is here? Answer:" -> emotion
+    "Question: What thing is happening? Answer:" -> activity
+]
