@@ -1,0 +1,842 @@
+[
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2356347.jpg",
+    "paragraph": "The image depicts a busy city street with several cars and pedestrians crossing the street. There is a traffic light located in the middle of the scene, signaling the start of a crosswalk. A number of people can be seen walking across the street, some of whom are standing on the side of the road while others are closer to the intersection. Additionally, there is a bus traveling down the street, which can be seen near the center of the image.",
+    "answer": "都市紛華絕不息，\n車龍人海構畫棋。\n紅綠燈中須行止，\n斑馬線上歧路西。\n\n行人匆匆各奔途，\n蹤影閃爍如流水。\n公交巨龍吞街巷，\n鐵馬呼嘯傍天際。\n\n雲影樓台交錯立，\n生活節奏誰掌握？\n一城繁忙說不盡，\n人生百態此中尋。",
+    "id": 2356347,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2414610.jpg",
+    "paragraph": "The image depicts a woman playing tennis on a court, with her racket in hand and ready to hit the ball. She is wearing a light blue dress that contrasts well with the green grassy background. A white tennis ball can be seen floating in the air as she prepares to swing at it. There are several chairs scattered around the court, some of which appear to be closer to the player.",
+    "answer": "翠草場中白球飛，\n藍裳女子力爭齊。\n手執拍來擊時勢，\n足踏春風步似蹊。\n\n漾漾裙擺舞空中，\n競技場邊影自雄。\n椅散一旁觀者少，\n臂揮汗洒展英風。",
+    "id": 2414610,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2388203.jpg",
+    "paragraph": "The image depicts a man taking a photo in a subway station, with a train passing by nearby. There is also a circular mirror present in the scene, which can be seen as a reflection of the man's face. A number of people are present in the scene, including a woman and a man, who are likely waiting for the train to arrive.",
+    "answer": "在昏黃地鐵畫面中，\n疾馬鋼龍急馳風。\n鏡圓人影繚繞裡，\n忙碌身影匆匆叢。\n\n鏡中一臉映候者，\n鐵馬咆哮過隧空。\n攝心男子按快門，\n定格時空故事重。\n\n女人男子同候列，\n生活節拍不停鳴。\n一刻永恆於掌握，\n流年鏡裡共徜徉。",
+    "id": 2388203,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2396483.jpg",
+    "paragraph": "The image depicts a group of people on a beach, enjoying their time together. There is a young boy standing on a swing, while another man is also present in the scene. Other people can be seen scattered around the area, including several children and some adults.",
+    "answer": "碧波拍岸悠悠時，沙灘串起樂悠遊。\n少年鞦韆立風中，壯漢側立笑聲投。\n童稚撲水笑聲輕，壯郎悠閒步未休。\n日光浴衣影綿延，歡聲融入海風流。\n\n沙間歡趣添笑語，天光海色共逍遙。\n波聲伴隨潺潺步，時光如歌好不嬌。\n海濱人影綜藝繪，樂章篇篇舞翩跹。\n世間美好盡此刻，無憂無慮海灣邊。",
+    "id": 2396483,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2316231.jpg",
+    "paragraph": "The image features a skier in a yellow suit skiing down a snowy slope. He is wearing a helmet, gloves, and a pair of ski poles, which can be seen scattered around the scene. There is also a snowboard near the skier's feet, providing additional support for the skier as he makes his way down the slope.",
+    "answer": "雪坡驕陽映衣黃，\n滑雪勇士揮杖忙。\n頭盔護身安全記，\n手套握桿把握強。\n\n雪板隨足翻飛雪，\n攻坡如風歷險商。\n山徑蜿蜒藏韻律，\n疾馳間現舞冰光。",
+    "id": 2316231,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2356028.jpg",
+    "paragraph": "The image depicts a bedroom with a large bed, a sliding glass door, and a balcony overlooking the outdoors. There is a yellow blanket placed on the bed, along with several books scattered around the room.",
+    "answer": "寂靜室內添溫暖，\n透明門外接自然。\n床頭書散意未盡，\n陽光黃毯夢繾綣。\n\n滑門啟處觀遠景，\n陽台懸空接天邊。\n鳥語花香隨風入，\n屋內居人共此緣。",
+    "id": 2356028,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2361789.jpg",
+    "paragraph": "The image depicts a train station with two trains, one of which is traveling down the tracks. There are several cars present in the scene, some of which can be seen closer to the train on the right side of the image. Additionally, there's a pedestrian walking across the tracks near the left side of the image.",
+    "answer": "In a bustling scene of steel and steam,\nTwo iron beasts repose, breathe, gleam.\nOne stirs to life, its journey beckons,\nAlong the rails, its path it reckons.\n\nThe station hums, a symphony of wheels,\nThe right side stirs with automotive deals.\nCars like sentinels, guarding the steel mare,\nWhispering tales of roads from here to there.\n\nAmidst the chatter, a lone figure strides,\nAcross the tracks, where metal warmth abides.\nA serene rebel 'gainst the roar of engines,\nHis shadow dances betwixt the hinge's margins.\n\nThe left train rests, idle for a time,\nAwaiting its call, anticipating the chime.\nIts twin awakens, rolling into the dawn,\nDestination bound, it moves, it’s gone.\n\nThe canvas of transit is lively and vast,\nEach element plays its part, its very own cast.\nOf journeys commenced, and paths crossed over,\nA snapshot in time, framed in temporal clover.",
+    "id": 2361789,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/285721.jpg",
+    "paragraph": "The image depicts a woman talking on her cell phone while standing next to a wall. She is holding an orange handbag, which can be seen in the foreground of the image. There are several other objects present in the scene, including a bag and a pair of shoes.",
+    "answer": "獨立牆邊女絮語，\n手中通話少閒途。\n橙袋前景盈春色，\n物間隱現數行餘。\n\n雙鞋伴隨離地遠，\n隨物故事各自書。\n時代篇章非筆墨，\n情緒傳遞在波途。",
+    "id": 285721,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2337492.jpg",
+    "paragraph": "The image features a city bus driving down a busy street, with several cars surrounding it. There is a yellow and white bus in the middle of the scene, while another car can be seen on the right side of the road. A number of other cars are also present in the scene, including one that is closer to the bus.",
+    "answer": "繁華街頭車水馬龍，\n黃白巨獸川流中。\n鐵馬戲場各自爭，\n輪輻旁車影縱橫。\n\n一路煙塵伴行雲，\n城市脈搏跳動鳴。\n喧囂較勢難靜觀，\n百車爭道是常情。",
+    "id": 2337492,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2385479.jpg",
+    "paragraph": "The image depicts a bedroom with a canopy bed, which is covered in red fabric. There is also a dresser located near the bed, as well as several chairs scattered around the room. A pair of candles can be seen placed on either side of the bed, adding to the romantic atmosphere of the scene.",
+    "answer": "紅幔伴床帷，燭影舞壁紅。\n梳妝盡精巧，椅散各安蒙。\n綢緞覆帳暖，情濃如織中。\n夜幕低垂外，愛語柔情濃。",
+    "id": 2385479,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2398714.jpg",
+    "paragraph": "The image depicts a scenic scene with a bridge over a green field. There is a bench near the edge of the grassy area, providing a place for people to relax and enjoy the scenery. A bicycle is also present in the scene, which can be seen on the right side of the frame.",
+    "answer": "綠野樑橋畫中生，\n閒椅憩靜賞翠盈。\n碧草如茵隨步伸，\n輕風撫面清心情。\n\n單車偏置影斜枝，\n路旁，花香鳥語嬉。\n遠離塵囂此地閒，\n天地間，最愛這凄凈。",
+    "id": 2398714,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2388749.jpg",
+    "paragraph": "The black and white image features a group of people on a beach, enjoying their time outdoors. There are several umbrellas scattered throughout the scene, with one located in the middle of the beach. Many people can be seen walking along the beach, some sitting under the umbrellas while others stand near them. Some people appear to be taking advantage of the warm weather by playing volleyball or swimming in the ocean.",
+    "answer": "海濱歡樂影，墨繪似夢瀛。\n沙畔忘塵嚣，炎陽下自輕。\n\n眾傘如點綴，中央一顯明。\n步履隨風舞，悠哉各自行。\n\n涼棚下閒座，話語笑聲清。\n戲水或球躍，暖風拂面生。\n\n碧浪隨律動，快意此刻鳴。\n濱邊共享樂，人間值此情。",
+    "id": 2388749,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2322395.jpg",
+    "paragraph": "The image features a group of sheep grazing on a grassy hillside near a white house. There are several sheep scattered around the scene, with some closer to the house and others further away. A small dog is also present in the scene, which can be seen wandering around the area.",
+    "answer": "翠坡羊群晚霞明，\n宛若繪卷靜謐生。\n蒼翠疏影牧歸路，\n溪畔白屋影幢幢。\n\n悠游散處羊隨草，\n或近或遠意自朗。\n犬影徘徊覓行跡，\n田園樸素畫中藏。",
+    "id": 2322395,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2325391.jpg",
+    "paragraph": "The image depicts a man playing a video game in a living room. He is holding a wii remote, which can be seen on the table near him. There are several chairs scattered around the room, including one that is placed closer to the man. Additionally, there is a bottle of wine and a coffee cup present in the scene.",
+    "answer": "遊子於廬間吟遊戲，\n手持遙控畫戰謀。\n椅散四周似軍列，\n履蹤往來情自由。\n\n臨桌酒瓶留暖意，\n旁置茶盞述閒逅。\n電光熒幕成戰場，\n笑看虛擲娛心頭。",
+    "id": 2325391,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2336456.jpg",
+    "paragraph": "The image features two cyclists riding their bicycles down a busy street. There are several cars on the road, with one car closer to the center of the scene and another near the right side. A bike is also visible in the foreground, which indicates that people are enjoying cycling as part of an active lifestyle.",
+    "answer": "繁華街中騎行影，雙輪偕伴舊城行。\n車水馬龍共爭道，閒車近傍獨自傾。\n\n健軀樂此動靜間，風馳電掣笑聲揚。\n行人駐足觀輪轍，生活活力在腳踏。\n\n鐵馬疾馳破煙霞，鍛煉身心任逍遙。\n同路人啊共頌歌，騎向前方美好朝。",
+    "id": 2336456,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2400785.jpg",
+    "paragraph": "The image features a white wii console and two controllers, one of which is placed closer to the center of the scene. The wii remote can be found on the right side of the console, while the other controller is located near the left side of the console. Both controllers appear to be in working condition, with no signs of wear or damage.",
+    "answer": "玉潔冰清室中物，白綸巧裝技藝妙。\n左臂銀蛇近綻放，右手金釵遠微霄。\n雙雙操器神交融，瑩淨如新對照饒。\n遊戲人間虛擬世，樂在其中夢幻招。",
+    "id": 2400785,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2372386.jpg",
+    "paragraph": "The image depicts a stop sign in the middle of a deserted road, with mountains visible in the background. The red sign is placed on a wooden post, and it can be easily seen from several angles. There are two people present in the scene, one near the top of the road and another closer to the bottom. They appear to be driving along the road, possibly going to a nearby destination.",
+    "answer": "荒途止標立孤明，\n遠岫環抱靜封情。\n斜陽照耀紅衣亮，\n木樁孤撐象徵清。\n\n行者頂端望路遙，\n復一近處步微慢。\n駛向何方人不語，\n孤程還有夢為伴。",
+    "id": 2372386,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2315868.jpg",
+    "paragraph": "The image depicts a table with several cell phones, a knife, and a pair of scissors on it. All of the devices are placed on a flat surface, creating a convenient setup for various uses. There is also a black belt in the middle of the table, which can be used as a belt clip or keyring.",
+    "answer": "於桌上生活器具陳，\n手機並列似兵棋阵。\n黑帶橫臥中央绵，\n鋒刃剪鉗各自銜。\n\n鑰匙挂處皆稱職，\n科技古今交匯津。\n利物便用排一線，\n夜深燈下影成林。",
+    "id": 2315868,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2375723.jpg",
+    "paragraph": "The image depicts a skateboarder performing a trick at a skate park. The man is in the air while riding his skateboard, and there are several cars scattered around the scene. One car can be seen closer to the skateboarder, while others can be found further away.",
+    "answer": "碧空如畫，滑手躍梁台，\n木板騰空，街景入詩來。\n輪轍旁輝映，鋼馬散無排，\n近車瞬影，遠輛隱霞蔡。\n\n鐵馬飛舞，少年驚世才，\n旋風於地，滑翔空中海。\n青春如火，輪滑見膽怪，\n座座馬車，鑄就異彩載。",
+    "id": 2375723,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2380121.jpg",
+    "paragraph": "The image depicts two brown bears playing in a watery environment, with one of the bears facing away from the camera and the other closer to it. The bears are engaging in playful interactions as they interact with each other, creating an exciting scene for viewers.",
+    "answer": "池畔戲熊風景美，\n淺水嬉戲任逍遙。\n背影投池一隻立，\n近端望來眼更巧。\n\n褐毛濕潤光皮毛，\n狂歡鬥戲顯親笑。\n自然純真情意厚，\n觀者欣慰心情飄。",
+    "id": 2380121,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2358349.jpg",
+    "paragraph": "The image features a mannequin head with a top hat and a clock on a table. The mannequin is placed in front of a clock, which appears to be an old-fashioned timepiece. There are several books scattered around the scene, including one that can be seen closer to the mannequin.",
+    "answer": "靜默時光一隅坐，\n假人頭戴紳士帽。\n舊時錶盤映斜陽，\n流年碎影典籍旁。\n\n桌上鐘聲靜未動，\n書海斷章思綿長。\n懷舊韶光奈何度，\n無言故事滿塵霜。",
+    "id": 2358349,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2349394.jpg",
+    "paragraph": "The image depicts a white and yellow train pulling into a station, with passengers waiting to board the train. There are several people present in the scene, some of whom are standing on the platform near the train. Additionally, there is a small group of people sitting on the side of the platform, possibly waiting for the train to arrive.",
+    "answer": "煙雲漫卷白黃駕，\n鐵路旁，人影紛擾。\n旅客立臺邊望，\n期待中，心隨笛聲搖。\n\n列車入站震地來，\n一陣風，歡聲輕揚。\n候車者側座靜坐，\n耳輪轍，目隨車窗。\n\n行囊收拾心已遠，\n告別語，輕許未來。\n眾生演此離合劇，\n輪回路，何日是回來？",
+    "id": 2349394,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2344396.jpg",
+    "paragraph": "The image depicts a man riding an elephant in a river. The man is sitting on the back of one of the elephants, which can be seen wading through the water. There are several trees scattered throughout the scene, providing shade for the man as he enjoys his time on the elephant's back.",
+    "answer": "江水潺潺悠然流，\n橡背相依一影愁。\n林蔭斑駁營幽夢，\n濕氣迷濛入衣袖。\n\n象步緩移隨浪徐，\n樹間斜陽畫長渠。\n旅人心隨河水靜，\n人象共浮生態圖。",
+    "id": 2344396,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2407328.jpg",
+    "paragraph": "The image depicts a man in a living room with several pieces of luggage scattered around the room. There is also a brown couch located near the man, which can be seen as part of the scene. A chair is also present in the room, providing additional seating for the man.",
+    "answer": "行李散落居所間，\n獨坐客廳思綿綿。\n褐榻側立默無言，\n椅挑寂寞獨添鮮。\n\n旅人心事似行雲，\n往來如風過暮年。\n家中一景藏千緒，\n靜待歸帆憶笑顏。",
+    "id": 2407328,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2396159.jpg",
+    "paragraph": "The image features two bears riding on a bicycle in an old-fashioned setting. The bears appear to be enjoying their ride, with one of the bears sitting closer to the bike while the other bear is further away. There are several people present in the scene, including a man and a woman, as well as a dog and a cat.",
+    "answer": "熊兄弟踏單車，舊時風情畫中游。\n坐前熊把手握穩，後者隨風樂悠悠。\n\n圍觀眾人笑顏開，男士女子悅目求。\n犬吠貓嬉共其樂，輪轉蹄聲響徽州。\n\n古巷深深故事多，踏歌前行勿需愁。\n和風細送香如約，動物樂園夢幽幽。",
+    "id": 2396159,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2365963.jpg",
+    "paragraph": "The image depicts a man skateboarding on a city street at night. He is standing in the middle of the street, with several cars and buildings surrounding him. There is also a person riding a skateboard nearby, which adds to the overall atmosphere of the scene.",
+    "answer": "夜幕城邊滑板客，\n靈巧翻飛街頭夜。\n輪轍繚繞行車間，\n街燈閃爍輝星劣。\n\n旁有伴侶共習藝，\n飛車地上輕如蝶。\n樓宇林立隱朦胧，\n城市夜色添韻味。",
+    "id": 2365963,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2361087.jpg",
+    "paragraph": "The image features a plate with a variety of vegetables, including broccoli, tomatoes, and green beans. A fork is also present on the table, along with a small cup that can be used to drink the food.",
+    "answer": "綠蘢盤中舞，紅果點綴新。\n豆翠排成行，銀叉旁空陳。\n盞添醒味清，食之謂盈真。\n繽紛蔬果宴，滋味喜人心。",
+    "id": 2361087,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2323094.jpg",
+    "paragraph": "The image depicts a white cow standing in a grassy field, with its horns extended. The cow is facing the camera, and can be seen from several angles. There are two other cows present in the scene, one closer to the camera and another further away. They appear to be enjoying their time in the grassy field, which may indicate that they are part of a herd.",
+    "answer": "翠野和風牛自樂，\n碧草如茵三影偕。\n白牛顧影展雙角，\n近遠排開情莫蓋。\n\n前瞻後顧眼前物，\n同享逍遙田野界。\n天地一隅任逍遙，\n牧牛圖中得閒哉。",
+    "id": 2323094,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2371993.jpg",
+    "paragraph": "The image depicts a baseball game in progress, with two players engaged in the action. One of the players is swinging at the ball while the other is trying to catch it. There are several spectators present in the scene, some of whom can be seen sitting on the ground and watching the game.",
+    "answer": "春風輕拂野球場，\n擊球聲响，戰鼓慌。\n壯士一揮顯身手，\n皮球飛舞巧雲翔。\n\n捕手守候於一旁，\n瞬息萬變眼光強。\n觀衆圍觀坐地上，\n喝采聲中賽心藏。\n\n綠野寬闊運動野，\n英姿飒爽展軒昂。\n此情此景難忘記，\n棒球場上樂洋洋。",
+    "id": 2371993,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2345947.jpg",
+    "paragraph": "The image depicts a woman walking her dog down a sidewalk, with the dog on a skateboard. The woman is holding the dog in one hand while she walks along the sidewalk, while the dog is on a leash and being pulled by the other hand. There are several cars scattered around the scene, including two that are closer to the woman.",
+    "answer": "碧街清風拂面香，繁輝間一隅安詳。\n佳人輕御愛犬側，繩牽板滑趣無雙。\n汽車蔓延如流水，相依偎共此時光。\n辰辰笑語連綴日，鬧裡尋幽樂悠揚。",
+    "id": 2345947,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/442.jpg",
+    "paragraph": "The image depicts a man sitting in front of a skull-shaped headpiece, which is decorated with colorful feathers and other decorative elements. A bottle can be seen placed on the side of the room, providing additional visual interest to the scene.",
+    "answer": "縹緲影幻古堂中，羽冠添豔逐風紅。\n獨坐形骸對虛席，歲月靜好如遺忘。\n室旁孤瓶識幽意，酒醒時分夢亦忙。\n人生景象舞繁霞，終是塵世一場惘。",
+    "id": 442,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2365231.jpg",
+    "paragraph": "The image depicts a man sitting on a chair and using a laptop. He is wearing a green shirt with the words \"do the devil\" printed on it, while looking at his phone and other electronic devices. There are several books scattered around the room, some of which can be seen in the background.",
+    "answer": "孤椅獨坐影猶疏，\n屏光映照綠衣姿。\n魔語纏身求知慾，\n眼牽碎影手機迷。\n\n書海紛亂藏幽思，\n電波紛飛接界奇。\n千絲萬縷網絡羅，\n百態人生一幕詩。",
+    "id": 2365231,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2377417.jpg",
+    "paragraph": "The image depicts a cake on a wooden table, with a fork placed near the top of the cake. There is also a bottle of wine and a cup in the scene, which can be used to serve the dessert.",
+    "answer": "檜木桌上甜點輕置，\n刀叉旁繚繞香氣密。\n琥珀酒瓶邊添雅趣，\n盈盈杯影暗相隨。\n\n蛋糕層疊軟綿意，\n餘韻悠長品味奇。\n金黃燭光輕輕搖，\n一夜佳節情溢詩。",
+    "id": 2377417,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2378511.jpg",
+    "paragraph": "The image features a colorful rooster standing on the grass in a yard. The rooster is wearing a red, orange, and yellow color scheme, with its tail feathers prominently visible. There are several other chickens present in the scene, some of which can be seen closer to the rooster. Additionally, there is a wooden fence located near the rooster, providing additional protection for the rooster.",
+    "answer": "碧草如茵雄雞立，\n朝霞披身彩羽翹。\n金紅交織棲尾翎，\n驕姿盡展眾雞嬌。\n\n旁伴群雞相映輝，\n塵世瓊院似仙台。\n木欄固障提安穩，\n庭院寧靜賞心懷。",
+    "id": 2378511,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2396171.jpg",
+    "paragraph": "The image depicts a man playing a video game in a living room. There are several chairs scattered around the room, some of which can be seen closer to the man's feet. A television is also present in the scene, with two people standing near it and one sitting on the couch.",
+    "answer": "夜幕低垂客廳靜，幻影閃爍影牽情。\n電光繚亂人不寐，指揮機緣戰幽冥。\n\n座椅零星如星散，近足遠心各自明。\n屏前立影似參佐，沙發坐客掠衣輕。\n\n激戰逐鍵生風雷，歡聲笑語亦縈繞。\n獨享虛擬戰無眠，夜深人靜友共嘲。",
+    "id": 2396171,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2350115.jpg",
+    "paragraph": "The image depicts a group of blue portable toilets lined up in a field near a train track. There is a large number of the toilets, with some placed closer to the train tracks and others further away. Some of the toilets can be found on the ground, while others are higher up in the distance. A few people can be seen walking along the side of the road, which may indicate that they are using the toilets for public use.",
+    "answer": "行旅途中臨鐵道，\n一排藍廁田間高。\n隨地可見露天廁，\n人行小路幾徘徊。\n\n列列盒般隨序立，\n或近軌邊或遠台。\n田畔列陣勝兵營，\n潔淨需求不相違。\n\n行人來往於斯道，\n時或匆匆或漫哉。\n公廁如雲侍旅客，\n風塵僕僕可安排。",
+    "id": 2350115,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2388121.jpg",
+    "paragraph": "The image depicts a bird nesting on a tree stump in the water. There are two ducks, one of which is resting on top of the stump, while the other can be seen perched nearby. A person is also present in the scene, possibly taking a stroll along the water. In addition to the birds, there are several pieces of wood scattered around the area, creating a natural habitat for the birds.",
+    "answer": "濕地幽樹獨棲鳥，\n水中枯株作巢園。\n鴨侶一雙棲鳴好，\n一息汀上覓安眠。\n\n行人徐步近水岸，\n靜賞禽情映夕煙。\n木渣漂浮添野趣，\n自成生態畫屏全。",
+    "id": 2388121,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2329419.jpg",
+    "paragraph": "The image depicts a bathroom with a glass shower door, a sink, and a toilet. There is also a bowl placed in the corner of the room, which can be used to wash dishes or other items. In addition, there is a towel hanging on the side of the mirror, suggesting that the bathroom is well-maintained.",
+    "answer": "隔璧玻璃洗雨新，\n盆置幽隅手作盈。\n淨盥貌中鏡旁巾，\n方知雅緻亦可居。\n\n潔淨恬淡凌空間，\n盥洗小憩轉瞬閒。\n明鏡懸垂素巾側，\n此室精緻自梳編。",
+    "id": 2329419,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2345455.jpg",
+    "paragraph": "The image depicts a surfer riding a wave on a surfboard in the ocean. The man is enjoying the moment as he balances on his surfboard and maneuvers through the waves. There are several other surfers present in the scene, some of whom can be seen closer to the shore.",
+    "answer": "翱翔海面壯士行，\n浪頭生風衝浪興。\n一板操控驚濤裁，\n傲視同儕近岸情。\n\n碧海連天無盡景，\n諸侯爭峙各自稱。\n盡享當下風浪樂，\n激流勇進，自在行。",
+    "id": 2345455,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2323745.jpg",
+    "paragraph": "The image depicts a pizza sitting on a baking sheet on top of an oven. The pizza is covered in spinach, which adds a unique flavor to the dish. There are several pots and pans scattered around the kitchen, including one that is placed near the stovetop.",
+    "answer": "翠蔬鋪面皮香煙，烤盤輕擱爐上前。\n雜陳鍋碗散無序，廚房煙火意未然。\n\n一餐異鄉情味濃，旋轉轍響亦悠閒。\n綠意盎然加餚饌，爐火微紅映暖光。",
+    "id": 2323745,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2341608.jpg",
+    "paragraph": "The image depicts a red fire hydrant in the middle of a parking lot, next to several garage doors. There is also a small bench near the hydrant, which can be used as a resting spot for pedestrians or visitors.",
+    "answer": "獨立車廠旁，赫然紅衛士，\n鐵甲無聲立，守望於塵世。\n停車場空闊，火栓賞心悅，\n幾扇閘門旁，默護此方宜。\n\n憩椅偎暖陽，行人歇步齊，\n閒庭信步間，一派悠然氣。\n緊急之時臣，流水歡歌升，\n寧靜小角落，優游景無匹。",
+    "id": 2341608,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2408766.jpg",
+    "paragraph": "The image depicts a city scene with a train traveling over a bridge. There is a streetlight on the left side of the road, and a traffic light in the middle of the scene. A large building can be seen in the background, creating a bustling urban environment. In addition to the train, there are several other vehicles present in the scene, including a car, a motorcycle, and a bicycle.",
+    "answer": "題名：都市鐵道圖\n\n鋼鐵長橋跨虹蜺，火車嘯鳴劃穹蒼。\n街燈孤立左街隅，紅綠繁星點交光。\n\n樓宇矗立背景中，人間煙火盡收眼。\n車流如織穿梭忙，摩托輪轉馳風旁。\n\n腳踏輕輕擁暮色，踏板輕旋入雲端。\n鋼筋水泥譜城歌，生活節奏不停歇。",
+    "id": 2408766,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2348913.jpg",
+    "paragraph": "The image depicts a group of four red airplanes flying in formation over a field, creating a spectacular display. The planes appear to be performing an aerobatic stunt, with their tails trailing behind them as they fly through the air. There are several people present in the scene, including two men and a woman, who can be seen closer to the center of the field.",
+    "answer": "紅機翱翔藍田上，\n映日飛行排雲裳。\n驚鴻四翼成行列，\n翼尾長煙畫長空。\n\n田野觀眾聚眼前，\n矚望兩男與嬋娟。\n藝術空中舞翩翩，\n勾畫天際美不言。",
+    "id": 2348913,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2392622.jpg",
+    "paragraph": "The image depicts a kitchen with a yellow labrador dog sitting in the middle of the room. The dog is resting on the floor near the stove, which can be seen in the background. There are several bowls and other items scattered around the kitchen, including a cup, a knife, and a spoon.",
+    "answer": "廚房裡，金黃犬，\n靜臥磁磚冷如冰。\n灶台旁，情緒穩，\n默守人間炊煙景。\n\n散落碗盤映繁忙，\n一杯一刀譜平常。\n匙光閃閃伴深思，\n守候溫馨主人旁。\n\n日光穿窗，嬌懶伸，\n時光悠悠任運行。\n樂土所在，不問軌，\n忠心待命，犬之銘。",
+    "id": 2392622,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2399793.jpg",
+    "paragraph": "The image depicts a large bowl of vegetables, including broccoli, carrots, and corn. There is also a wooden spoon in the dish, which can be used to stir the ingredients together.",
+    "answer": "翠綠花悠悠，紅根黄粒間。\n繽紛盈素碗，材料次第攢。\n木匙添雅趣，攪拌作風篇。\n滋味融自然，養生合五膳。",
+    "id": 2399793,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2351302.jpg",
+    "paragraph": "The image depicts a large airplane taking off from an airport runway. There is a white passenger jet in the foreground, while several other planes can be seen scattered around the scene. A number of vehicles are also present in the scene, including a truck and a car.",
+    "answer": "翱翔巨鳥揚長天，\n鐵翼展開破曉煙。\n跑道邊，白雲戲，\n旅行心，遠夢連。\n\n四野靜立群機影，\n一路駛來車與輦。\n天地間，機啟航，\n人世裡，情難牽。",
+    "id": 2351302,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2382449.jpg",
+    "paragraph": "The image features a group of four airplanes flying in the sky, creating a spectacular display. The planes appear to be performing an aerial stunt, with their contrails visible in the blue sky. There are several people present in the scene, including two men and a woman, who can be seen closer to the center of the image.",
+    "answer": "雲海翔藍遠，四鳥戲穹蒼。\n翼劃天際線，飛行絕技揚。\n人影立畫中，二士與娘娘。\n仰望空中舞，心驚藝術鋼。\n\n軌織雲間錦，天宇展翱翔。\n觀眾目眩神，志士意飛揚。\n氣溫與風共，機翼曲高唱。\n誠為壯觀景，留影歷史潢。",
+    "id": 2382449,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2340836.jpg",
+    "paragraph": "The image depicts a young woman riding a surfboard on an inflatable platform. She is wearing sunglasses and appears to be enjoying the ride as she balances on the board. There are several other people present in the scene, including a man and a woman, who can be seen closer to the center of the image.",
+    "answer": "碧波之上女郎翔，衝浪飄盪樂無疆。\n風拂長髮遮日镜，波心微動影成雙。\n\n浮台承載夢想船，矯健如燕舞蒼穹。\n旁觀男女聚中央，笑語嬉戲水晶中。\n\n海光潑彩隨風轉，青春自在浪尖上。\n一片匆匆人間樂，漾漾波心舞未央。",
+    "id": 2340836,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2368758.jpg",
+    "paragraph": "The image depicts a train traveling down the tracks at sunset. There is a passenger train on the tracks, with one of the cars closer to the camera and another car further away. There are several trees in the background, providing a scenic backdrop for the scene.",
+    "answer": "行鐵龍蒼穹下，落日映軌旁。\n前車浮影近，後節悠揚長。\n林木扶疏幕，景緻入詩藏。\n夕輝與雲競，一路向暮光。",
+    "id": 2368758,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2355670.jpg",
+    "paragraph": "The image depicts a young man in a park playing with a frisbee. He is jumping into the air and catching the frisbee, while several other people can be seen around him. There are several chairs scattered throughout the scene, some of which are closer to the boy. A green frisbee is also present in the scene, likely representing the game itself.",
+    "answer": "綠野遊戲童心開，\n公園盎然陽光洒。\n蒼穹之下笑聲揚，\n盤飛躍處意氣揚。\n\n少年翻身追風去，\n手擲盤中宛轉來。\n旁人望見歡欣致，\n散椅林間話桑梓。\n\n蹁躚跳躍捕飛旋，\n汗珠飛灑照日邊。\n輪回盤舞青春夢，\n樂此不疲遊子天。",
+    "id": 2355670,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2407896.jpg",
+    "paragraph": "The image features a person holding up a street sign in the middle of a dark street. There is also a camper truck nearby, which can be seen closer to the center of the scene.",
+    "answer": "孤街夜低吟，持牌立幽寂。\n霓虹遠已熄，一燈我獨引。\n露營車靜立，如夢似幻境。\n中心微光溢，指路迷途客。\n\n夜風輕拂面，星河閃爍密。\n旅者心不變，尋覓知己誼。\n靜觀時光逝，萬語和一息。\n旅途何處止，此夜與君識。",
+    "id": 2407896,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2381785.jpg",
+    "paragraph": "The image features a snowboarder standing on a snowy slope, with his backpack in one hand and the skis in the other. He is wearing a red jacket, which can be seen covering most of his body. There are several ski poles scattered around the scene, providing additional support for the snowboarder as he glides down the slope.",
+    "answer": "立於雪坡踏輪回，\n紅衣身披影隨揮。\n背囊一握情未悔，\n手握滑板雪路開。\n\n極目風寒銀裝美，\n染霜極品戰寒嵬。\n杖散週邊予助力，\n縱橫馳騁譜冬嬉。",
+    "id": 2381785,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2380599.jpg",
+    "paragraph": "The image features an older man sitting at a table with a plate of food in front of him. He is holding a fork and knife while eating the meal, which appears to be a dish of some kind. There are several bowls scattered around the table, including one that is placed closer to the man's face.",
+    "answer": "獨坐餐桌影靜悠，\n碟中佳肴香溢周。\n銀叉金刀舞飛餐，\n滿桌碗盞散無憂。\n\n近前碗盛情味重，\n餘光映照鬢如霜。\n品味人生苦與甜，\n饒是平淡也自香。",
+    "id": 2380599,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2396690.jpg",
+    "paragraph": "The image depicts a black bear in a zoo enclosure. The bear is standing near a tree, eating some of the food that has fallen from the trees. There are several branches scattered around the area, providing shade for the bear as it enjoys its meal. In addition to the bear, there are two other animals present in the scene: a brown bear and a grey bear. The brown bear is closer to the camera, while the grey bear can be seen further away. The gray bear appears to be more active than the brown bear, likely due to its proximity to the camera.",
+    "answer": "於圍牆隔世景，黑熊立樹畔閒。\n枝落繁華成宴席，野果香飄引步閒。\n樹影斑斑遮日照，賞心樂事誰家園？\n近攝棕熊眠靜寂，遠處灰熊戲蹤顯。\n\n一園三熊各有態，食趣閒情各自專。\n近者淡然睡眼慵，遠者活躍好奇延。\n照影相隨憩樂園，人間繁華亦何限？\n各憩其居，逍遙熊境內外天。",
+    "id": 2396690,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2353479.jpg",
+    "paragraph": "The image depicts a man playing tennis on a court, with a tennis racket in his hand. He is swinging the racket as he attempts to hit a tennis ball, which appears to be moving at a high speed. There are several chairs scattered around the court, some of which can be seen closer to the player.",
+    "answer": "碧空如洗賽場寬，一人執拍鬥旋球。\n球捷如風來勢猛，揮臂張網戰意酬。\n\n散椅周圍見證戰，翻飛遨遊響擊毬。\n力爭上游汗如雨，綠茵場上盡显優。\n\n擊球聲中激情揮，拍似游龍舞空中。\n每一回旋勝負判，球手英姿日日新。",
+    "id": 2353479,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2408052.jpg",
+    "paragraph": "The image depicts an old microwave oven on the sidewalk, surrounded by trash and other items. There is a plant in the background, which can be seen as a sign of neglect or abandonment. Additionally, there is a small handbag located near the side of the street. Overall, the scene offers a glimpse of a decrepit urban environment.",
+    "answer": "在舊巷弄角落垂，\n微波爐舊殘垃圾堆。\n疏綠植作背景憂，\n遺世閒草證荒蕪。\n\n袋小臥街旁靜默語，\n城市衰潰證實物。\n歲月吞噬百物變，\n淪落風塵渺無依。\n\n獨立生機於廢墟，\n解語花添抹寂寥。\n人間喧囂漸遠去，\n傷痕寂寂話無聲。",
+    "id": 2408052,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2410023.jpg",
+    "paragraph": "The image depicts a group of people playing a video game in an indoor setting. There are four men standing around the room, with one holding a wii remote and another holding a bottle. They are all engaged in a game of some kind, likely a video game. One of the men is wearing a red shirt, while the other two have white shirts on. All of the men are holding their wii remotes, suggesting that they are playing a video game together. A bottle can also be seen in the corner of the room, adding to the overall atmosphere of the scene.",
+    "answer": "燈光掩映室內輝，四友攜手虛戲時。\n手中白機如劍指，悠然爾雅樂綿綿。\n\n紅衣一襲似英雄，白衫紛紜又誰憐？\n玻璃瓶角靜無言，盡顯遊戲夜未眠。\n\n指揮如揮魔法杖，熱鬧聲中笑聲傳。\n屏前光影舞翩翩，共享此刻歡與歡。",
+    "id": 2410023,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2394542.jpg",
+    "paragraph": "The image features a stop sign in the middle of a street, with a house nearby. There is also a small black and white dog near the stop sign, which can be seen on the right side of the scene. Overall, the scene depicts a peaceful setting with a stop sign in the foreground.",
+    "answer": "白黑犬旁安居暫憩，\n屋影隱約鄰街畔。\n停行牌立警方圓，\n一隅寧靜畫中現。\n\n小徑靜寂無人煙，\n紅框嚴令斯路前。\n日暮鄉關何處是，\n家園憩息夢初全。",
+    "id": 2394542,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2407733.jpg",
+    "paragraph": "The image depicts a dining table with a variety of breakfast items on it. There are several plates, cups, and bowls placed on the table, along with some croissants and other types of pastries. There is also a bottle of orange juice located in the middle of the table, providing a refreshing beverage for the guests.",
+    "answer": "晨曦微熹暖房間，\n餐桌盈香呈佳餚。\n甜酥角餅伴鮮黃，\n金漿柳瓶映朝光。\n\n銀盤疊疊裝滋味，\n碧瓷杯中泛茶香。\n溫情共享晨膳美，\n日啟幸福溢四方。",
+    "id": 2407733,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2413110.jpg",
+    "paragraph": "The image depicts a young girl playing tennis on a tennis court. She is holding a tennis racket in her hands, ready to hit the ball with her racket. There are several cones placed around the court, some of which can be seen closer to the girl's body. A few chairs are also present in the scene, providing additional seating for spectators.",
+    "answer": "綠陰球場少年時，\n揮拍逐球展輕盈。\n錐標繞身勤練習，\n椅側觀眾靜觀棋。\n\n揚手臨風球已飛，\n汗珠皓皓透玉肌。\n競技少女心無畏，\n映日紅裙舞陣渝。",
+    "id": 2413110,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2392870.jpg",
+    "paragraph": "The image features a barbecue grill with two slices of pizza on it, as well as some hot dogs and cucumbers. There is also a bottle of water nearby, suggesting that the people in the scene are enjoying their meal outdoors.",
+    "answer": "在火烤網架之上，畫面映於詩的篇章：\n炭火紅燒暮光下，披薩烤肉齊放香，\n熱狗黃瓜添新意，伴夏風中轉滋味。\n\n碧空下的野餐趣，清水旁邊靜待涼，\n片片麵餅金黃色，串串腸肉齊翻湯，\n戶外樂章添歡笑，盤中美味共享嚐。\n\n一幕餐香與綠蔭，炎炎夏日野外恰，\n炭煙微騰情意濃，天籟和風搖曳扉，\n美食結伴藍天下，共譜此刻難忘篇。",
+    "id": 2392870,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2389894.jpg",
+    "paragraph": "The image depicts a busy city street with an orange fire hydrant in the middle of the road. There are several cars scattered around the scene, including one that can be seen closer to the center of the picture. A pedestrian is also present on the sidewalk, walking along the side of the road.",
+    "answer": "碧空映照鋼鐵城，\n熙熙攘攘街心行。\n橙銅消防栓中立，\n馬達聲中靜默鳴。\n\n四輪疾駛零星散，\n行人側步踏石徑。\n路旁一點火栓紅，\n塵世喧囂中一點。\n\n金屋銀樓人海裏，\n匆匆征途每自忙。\n生活戲劇場上演，\n繁華之中寂寞藏。",
+    "id": 2389894,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2366569.jpg",
+    "paragraph": "The image depicts a woman walking down a city street with an umbrella in hand. She is walking along a cobblestone path, passing several cars on the side of the road. There are two cars located closer to the center of the scene, while another car can be seen further away towards the right side of the photo. The person is wearing a brown coat and boots, which complement her ensemble. Her umbrella is visible as she walks down the street, providing protection from the rainy weather.",
+    "answer": "石板濕街雨紛紜，\n一傘孤行畫中人。\n褐衣伴靴步輕移，\n街側車行輪輪新。\n\n遙見遠車隱霧間，\n近車如畫靜幽然。\n雨中漫步情何限，\n她在雨巷，成詩篇。",
+    "id": 2366569,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2374704.jpg",
+    "paragraph": "The image depicts a dining table with a variety of food on it. There is a wooden tray with several bowls, each holding a different type of food. A person is sitting at the table, enjoying some of the delicious foods on the tray. Other people are also present in the scene, including a man and a woman. All of the individuals appear to be having a good time as they enjoy their meal together.",
+    "answer": "宴席圖繪歡聲笑，\n木托盈盈美味招。\n碗盤中珍羞異種，\n一人品嘗，盡顯妙。\n\n男儀女態皆佳賓，\n同桌共享此須臾。\n熙熙攘攘樂無邊，\n饗宴情深如澤宙。",
+    "id": 2374704,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2332660.jpg",
+    "paragraph": "The image features a beautiful arrangement of flowers in a glass vase on a table outdoors. The arrangement is composed of yellow, orange, and red flowers, which are placed in different parts of the vase. Some of the flowers appear to be more prominent than others, with some appearing closer to the viewer while others are further away. There are also several leaves scattered throughout the arrangement, adding visual interest to the scene.",
+    "answer": "碧空下，几许桌前瓶插艳，\n玻璃罐中簇拥花朵鲜。\n金黄、橙艳与红争艶，\n参差错落情意各自延。\n\n近视瞻花胜景觞更近，\n远玉萼含羞却自掩。\n翠叶婆娑杂英姿，\n映日风中舞翩跹。",
+    "id": 2332660,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2390224.jpg",
+    "paragraph": "The image depicts a young man riding a skateboard down a street. He is in the middle of a stunt, performing a trick on his skateboard as he glides across the road. There are several trees and plants scattered around the scene, adding to the overall visual appeal of the scene.",
+    "answer": "碧蔭搖曳街頭側，風馳電掣少年勁。\n樹梢間舞輕盈影，板上英姿剎那現。\n\n四輪如風翻滾走，行雲流水躍長空。\n綠植點綴途中景，一躍飛身展藝風。\n\n驚奇目光隨影轉，輕巧身形舞逆風。\n翻轉跳躍驚心魄，青春活力在街中。\n\n路旁花草也為妝，助興加油添光彩。\n翠葉映衬驚蝶舞，街風滑板畫青來。",
+    "id": 2390224,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2402634.jpg",
+    "paragraph": "The image depicts a parking meter on a city street. A white car is parked near the meter, while several other cars are also present in the scene. The meter has a blue and white color scheme with a touchpad located at the top of the meter. There is also a coin slot located on the side of the meter, which can be used to pay for parking.",
+    "answer": "城市街頭計時立，\n錢槽側畔車輛傍。\n藍白色彩分高矮，\n塵世喧囂間靜默。\n\n觸控屏於顶端亮，\n白駒停傍寂無聲。\n金銀世俗皆過客，\n車輛列隊映日長。\n\n鐵獸臥於塵世界，\n鈍鈔互換是平常。\n時光不停轉瞬逝，\n車位幣投情縈繞。",
+    "id": 2402634,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2414802.jpg",
+    "paragraph": "The image depicts two clydesdale horses pulling a plow in a field, with a man standing nearby to guide the animals. There is also a person sitting on a bench near the horses, providing additional support and encouragement for the workers.",
+    "answer": "翠野晨曦光芒溢，\n雙駿并肩犁田畦。\n農夫立於肩旁側，\n指引騏驥穿行蹊。\n\n晨露滋潤土沃香，\n硕果累累待收藏。\n旁人靜坐涼亭下，\n言笑風生助較量。\n\n馬蹄踏遍黃金路，\n耕耘畫出盛世圖。\n汗水滴滴匯甘泉，\n共鑄豐年夢織圖。",
+    "id": 2414802,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2316909.jpg",
+    "paragraph": "The image features a person flying a kite on a beach, with the ocean visible in the background. There is a man standing on the beach, holding a kite and walking towards the water. He appears to be enjoying his time on the beach while flying the kite.",
+    "answer": "海風繞指輕舞線，\n沙灘行人把鳶牽。\n笑對浪花連天闊，\n閒步潮來水自鮮。\n\n風箏飛揚海天際，\n碧海長空共一蓮。\n悠然忘我時光裡，\n自在如風任意天。",
+    "id": 2316909,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2408991.jpg",
+    "paragraph": "The image depicts a baseball player standing in the dugout, holding several bats. There is also a man sitting on one of the benches, with his arms extended and ready to swing at the bats. A number of other people are present in the scene, including two men who appear to be watching the game from the dugout. Overall, the image captures an exciting moment during a baseball game.",
+    "answer": "在球場角落站立壯，\n手握數棒似戰将。\n檐下有坐臂展翼，\n待憑一揮揚塵浪。\n\n旁觀兩影饒興趣，\n目送飛球穿雲往。\n沉浸比賽鏗鏘刻，\n激情澎湃響四方。",
+    "id": 2408991,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2356482.jpg",
+    "paragraph": "The image features a white bowl filled with a variety of ingredients, including broccoli, rice, and pasta. There is also a cup placed on the table near the center of the plate, adding to the visual appeal of the meal.",
+    "answer": "杯畔盤中景色鮮，\n白瓷碗裡露珍篇。\n碧樹蘭花添翠飯，\n金絲織就麵橋懸。\n\n盈盈一水圍中央，\n素餐混合味無雙。\n眼饗色彩匠心布，\n養身之宴樂康庄。",
+    "id": 2356482,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2342578.jpg",
+    "paragraph": "The image depicts a stop sign on a pole, with the words \"Stop\" prominently displayed. There is also a red and white flag hanging in the background, adding to the overall visual appeal of the scene.",
+    "answer": "在季風吹拂下懸掛的紅白旗\n添彩於這日常街角的詩意\n攬繁華於一隅，止步牌輕立\n人來人往，匆匆忘卻暫停奇迹\n\n紅色的警示，掌控著穿越時機\n它靜默的語言，對人群細語提醒\n行至此處，請一息你的歷程\n透過此刻寧靜，聽未來低語呼喚\n\n看旌旗飄飄，在蔚藍天空之下\n如同夢境浮現，領我們迴旋穿越\n旗幟如詩，微風送來和煦懷抱\n逗留一刻，在世界轉角遇見美好\n\n\"停\"字宣告，鮮紅與白交織之界\n彷彿人生之路，不斷的交錯與再會\n在這標誌之下，讓心靈稍作停擺\n再續前行，帶著這片刻的寧靜開懷",
+    "id": 2342578,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2416313.jpg",
+    "paragraph": "The image features a black train traveling down the tracks, passing under an overpass. There is a pedestrian in the foreground, and several cars can be seen scattered around the scene. The train appears to be moving at a steady pace as it travels along the tracks, with some passengers sitting on the side of the tracks.",
+    "answer": "碧空如洗鐵獸行，\n一線軌道穿野程。\n立交橋下響隆隆，\n孤行者立世邊靜。\n\n車影斑斑散道旁，\n行旅匆匆各自忙。\n旁觀者坐軌邊望，\n悠悠輪轉世事長。\n\n列車嘯過遺煙霞，\n鋼輪滾滾向遠方。\n生活節奏如此景，\n蒸汽與夢齊飛揚。",
+    "id": 2416313,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2406453.jpg",
+    "paragraph": "The image depicts a busy city street with several cars on the road. There is a parking meter located in the middle of the street, and there are several trees scattered throughout the scene. Some of the trees can be seen closer to the camera, while others can be found further away from the camera. Additionally, there are several pedestrians walking along the side of the street, which adds to the overall visual appeal of the scene.",
+    "answer": "穿梭車流如织网，\n街道繁忙景象忙。\n铁骑斗辉蒙尘土，\n孤峙计时铜表旁。\n\n遍植翠柏人阴凉，\n近树苍桑映目光。\n远木参天隐霞外，\n行人脚步匆匆忘。\n\n都市画卷生色彩，\n生活篇章随风扬。\n钢筋水泥藏诗意，\n闲观林荫淡尘嚣。",
+    "id": 2406453,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2368418.jpg",
+    "paragraph": "The image depicts a young boy playing baseball in a grassy field. He is holding a red bat and swinging it at several balls, some of which are scattered around the field. There is also a pair of shoes on the ground, with one closer to the boy and another farther away.",
+    "answer": "綠野揮紅棒，少年樂無窮。\n皮球散野趣，一雙鞋自逢。\n近者隨步伴，遠者似心中。\n童趣盈笑語，春光照運動。",
+    "id": 2368418,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2417495.jpg",
+    "paragraph": "The image features a colorful jet plane flying in the sky, emitting smoke as it flies through the air. There is a red, yellow, and black airplane visible in the scene, with one of the engines visible on the left side of the frame. The other engine can be seen on the right side of the frame, closer to the center of the image.",
+    "answer": "千色霓裳劃長空，\n鳥翼雙騰煙繚繞。\n甲午日輝邊際燭，\n一機奔騰耀眼眸。\n\n紅黃夾黑漫天畫，\n左隱銀輪半露謳。\n右側心臟近中景，\n雲海征途自無疆。\n\n青雲之巔舞風馳，\n鐵鳥飛揚譜新詩。\n遠看神駿遊九霄，\n留影人間勝古畿。",
+    "id": 2417495,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2338731.jpg",
+    "paragraph": "The image depicts a tennis player holding a tennis racket while standing on the court. He is wearing a white shirt with a red stripe, and his hands are clasped in front of him as he prepares to hit the ball. There are several other people present in the scene, including two women and a man. They are all sitting or standing nearby, possibly watching the match from afar.",
+    "answer": "球手備戰網前立，\n紅邊白衫映朝晖。\n握拍臂前緻目力，\n球場軀影映嚮飛。\n\n旁觀者立女士二，\n隨伴一逸士同依。\n期盼一擊驚天下，\n劍指蒼穹戰意揮。",
+    "id": 2338731,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2368094.jpg",
+    "paragraph": "The image depicts a group of skiers and snowboarders on a snowy mountainside. There are several people sitting on the ground, some with their snowboards in hand, while others are resting on the slopes. A number of other people can be seen scattered around the scene, either standing or lying down. Some of the people appear to be taking advantage of the opportunity to practice their skiing skills.",
+    "answer": "雪峰映翠立，傾巾群英會。\n滑板握手中，靜坐倚斜崴。\n四散人影動，遁入白茫茫。\n初學戲寒雪，翻飛欲自強。\n\n寒光折日影，冰雪作盟都。\n疆域無人煙，笑聲遠相呼。\n樂此不彼遜，銀山共翱翔。\n踏雪尋梅去，韻動寒林旁。",
+    "id": 2368094,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2352689.jpg",
+    "paragraph": "The image depicts a picturesque scene of several sailboats docked in the water near a rocky shoreline. There are four boats, two on each side of the body of water, with one boat closer to the shore and another further away from the shore. A number of trees can be seen surrounding the area, adding to the natural beauty of the scene.",
+    "answer": "碧波蕩漾舟自橫，\n岸邊巖石樹相映。\n雙雙帆影分兩側，\n近岸遙泊畫一僧。\n\n風繞綠梢聲細細，\n水中輕帆夢綿綿。\n四舟靜泊湖心寂，\n自是人間仙境妍。",
+    "id": 2352689,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2336536.jpg",
+    "paragraph": "The image depicts a man flying a kite in a park. He is wearing a white hat and standing on a grassy path, with trees surrounding him. There are several other people present in the scene, some of whom are also flying kites. One person can be seen flying a kite near the middle of the road, while another one can be seen flying it closer to the ground. A number of small birds can be seen scattered around the area, adding to the natural beauty of the scene.",
+    "answer": "碧空放飛童心意，純白帽影隨風起。\n綠徑人行把線牽，樹梢間嬉戲鷗鷺飛。\n龍飛鳳舞爭輝映，或臨小徑或探低。\n繽紛紙鳶揚天際，公園裡，笑聲與風結伴隨。",
+    "id": 2336536,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2370076.jpg",
+    "paragraph": "The image depicts an abandoned room with a broken lamp and other items scattered around. There is a doorway in the middle of the room, which can be seen partially blocked by debris. A chair is located near the doorway, while another chair is placed closer to the camera. Overall, the scene offers a sense of decay and desperation.",
+    "answer": "廢墟中的凄涼室，\n破燈殘影亂紛紜。\n椅倚門旁思往事，\n塵埃堆積感時運。\n\n碎片阻路難再進，\n遺物散落證荒瘠。\n絕望氣息濃厚重，\n蕭條一隅銘心魂。",
+    "id": 2370076,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2416131.jpg",
+    "paragraph": "The image depicts a group of cows walking down a dirt road with a man on a horse. There is a total of 14 cows in the scene, some of which are closer to the man and others further away. A number of trees can be seen in the background, adding to the natural beauty of the scene.",
+    "answer": "塵徑行牛影，馬蹄跡復蒙，\n一人馳騁裡，十四犢行中。\n樹影添背景，群牛自遠東，\n近隨人側步，遠者又逡巡。\n自然幽美處，徐徐展故翁，\n映日牧塵起，幽徑寧靜風。",
+    "id": 2416131,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2409587.jpg",
+    "paragraph": "The image depicts a large dog standing in the water near a dock. The dog is wearing a red collar, and it can be seen wading through the water with its front legs extended. There are several other objects present in the scene, including a boat, a fishing rod, and a pair of sunglasses.",
+    "answer": "碧波漾漾犬渡水，\n紅領巨獸遊無疲。\n前足伸展撥流浪，\n碼頭旁邊識忠輝。\n\n小舟輕泊漁繩靜，\n釣竿孤立影微揚。\n太陽鏡落添閒趣，\n夕陽映照好時光。",
+    "id": 2409587,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2356884.jpg",
+    "paragraph": "The image depicts a group of sheep standing on a hillside near a lake and mountains. There are several sheep scattered across the scene, with some closer to the camera and others further away. They appear to be enjoying the scenery as they look down at the lake and surrounding mountains.",
+    "answer": "山巒倒影入湖光，羊群閒卧岸傍旁。\n散佈綠坡群影動，近前遙望各自忙。\n\n湖畔山風輕拂毛，靜觀天際意瀟湘。\n自在悠然享寧靜，草香中譜畫一場。\n\n遠近高低各不同，晨霧輕籠似幻境。\n清山翠嶺好風光，羊群和畫融入詩。",
+    "id": 2356884,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2342746.jpg",
+    "paragraph": "The image features a white truck parked in a parking lot. There are several other cars scattered around the scene, including one that can be seen closer to the back of the truck. Additionally, there is a blue car located near the front of the truck, and a red car on the right side of the image.",
+    "answer": "白驢靜臥空車海，\n碧輛近傍迓良會。\n散植鐵花綴斜陽，\n丹車孤影右相配。\n\n輪轍交織繽紛地，\n汽笛偶然添靜謐。\n停泊無言各自立，\n鋼馬寒光映斜日。",
+    "id": 2342746,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2335084.jpg",
+    "paragraph": "The image features a street sign with the word \"bumps\" written on it. There is a street light located in the background, providing additional illumination for the scene. Additionally, there are several lights scattered around the area, creating a well-lit atmosphere.",
+    "answer": "照夜舊街招微光，\n「凸起」路標寂寥旁。\n燈火輪回綴暗角，\n星河掛匾夢幾行。\n\n黯淡街燈話前程，\n警示浮生慎小心。\n車轍隨行搖曳影，\n繁星點點照孤心。\n\n夜風輕拂添輝映，\n巷弄間光舞影濃。\n警世牌前行者過，\n照亮人間冷暖中。",
+    "id": 2335084,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2385924.jpg",
+    "paragraph": "The image depicts a tennis match on a court, with two people playing the game. One of the players is jumping up to hit the ball, while the other is waiting for his turn. There are several cars scattered throughout the scene, including one that can be seen in the background.",
+    "answer": "網球場上較技能，躍身撲球影伸長。\n一位待敵還擊日，靜似山峰待風揚。\n車影斑駁場外散，幾輛隨景入畫框。\n球拍交鳴時刻短，勝敗轉瞬間，尚存遊戲趣味方。",
+    "id": 2385924,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2412986.jpg",
+    "paragraph": "The image depicts three men posing for a photo in a baseball field. Two of the men are sitting in a wheelchair, while the third man is standing next to him. All three men are holding baseball bats, with one of them being in a wheelchair. There are several balls scattered around the field, some of which can be seen closer to the center of the scene.",
+    "answer": "於綠野球場映英姿，\n輪椅雙座伴立軒。\n三杖齊握展運意，\n散球點點譜無限。\n\n劃空漫搖君子樂，\n同朋共賞競技魂。\n夢想一田勝負外，\n情誼深處笑聲存。",
+    "id": 2412986,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2364881.jpg",
+    "paragraph": "The image features two parking meters in a parking lot, with one located closer to the center of the scene. There are also several other parking meters scattered around the parking lot, providing ample space for visitors to park their vehicles. A handbag can be seen on the side of the parking lot, suggesting that there is a person nearby.",
+    "answer": "孤傲影雙立，鐵衛列空場，\n車輛來往群，停泊各自方。\n中心更臨近，一株獨顯揚，\n四周伴侶散，機靈分土疆。\n\n遺落境邊隅，手袋物微茫，\n主人影不見，或在此附旁。\n靜觀車流緩，節制時空長，\n機械金錢語，靜默譜城章。",
+    "id": 2364881,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2378624.jpg",
+    "paragraph": "The image depicts a group of people flying kites in the sky. There are three men standing on a grassy field, with one man closer to the camera and another person further away. They are enjoying the beautiful scenery while flying their kites above them. A bag is also present in the scene, likely belonging to one of the men.",
+    "answer": "翠草如茵日光好，\n三人立地放風箏。\n近人之一捧線繞，\n遠影狂舞接雲朋。\n\n天際五彩悠揚舞，\n紙鳶隨風慶安康。\n旁有包袱散閒臥，\n笑聲飄散入霞光。",
+    "id": 2378624,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2407739.jpg",
+    "paragraph": "The image depicts a street corner with several signs, including one that reads \"Washington Street\" and another that reads \"Wall Street\". There is also a large number of people in the scene, some of whom are standing on the side of the road. In addition to the street signs, there are other objects present in the scene, including a camera and a pair of shoes.",
+    "answer": "於華盛頓街角立，\n人群繁華添鬧市。\n牆街標識高掛處，\n行旅匆匆莫停留。\n\n閃爍鏡頭捕時光，\n舊鞋路旁述歲月。\n風塵仆仆歧路眾，\n交錯忙碌各奔前。\n\n金融巨龍蜿蜒伏，\n夢想築巢心不已。\n此地名聞遐邇聚，\n生活戲碼日日新。\n\n一隅城角留足印，\n流水標牌語悠揚。\n我行我素各自尋，\n錯綜徑路轉瞬間。",
+    "id": 2407739,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2317810.jpg",
+    "paragraph": "The image depicts a busy street scene with several people walking down the street. There is a person holding a peeled banana, which can be seen in the foreground of the image. A number of other people are also present on the street, including two men and a woman. One of the men is wearing a red shirt, while the other man is wearing a blue shirt. Both men appear to be enjoying their time on the street.",
+    "answer": "繁華街頭繞人潮，\n紅衫藍襯笑顏照。\n手持香蕉亦步亦，\n行人匆匆意未了。\n\n男子二人同樂其中，\n女影徘徊添風情。\n樂融融中日常景，\n街景生動韻味濃。",
+    "id": 2317810,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2353511.jpg",
+    "paragraph": "The image depicts a group of skiers waiting at a ski lift station. There are several people in the scene, including two adults and one child, who are standing near the entrance to the ski lift. They are enjoying their time on the snowy slopes while waiting for the lift to take them up to the mountaintop.",
+    "answer": "雪野凝光輝，滑客聚索橋。\n群英戴雪具，銀山興未了。\n\n晨風輕撫面，列隊待天梭。\n童子攜家長，俱欣此趣高。\n\n纜臂似鳥翔，期待踏巔峰。\n揚心夢雲外，飄然逐景通。\n\n白裳映日輝，笑語樂悠揚。\n冰界忘凡世，登高望極光。",
+    "id": 2353511,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2402723.jpg",
+    "paragraph": "The image depicts a tennis match on a court, with a man holding a tennis racket and ready to hit the ball. There are several other people present in the scene, some of whom are standing near the man, while others are scattered around the court. A pair of shoes can be seen nearby, suggesting that they are part of the game as well.",
+    "answer": "在球場的揚塵間，喧囂聲伴日新天，\n拍握男子姿勢矯，球臨弦前猶待捐。\n旁觀者立斜影裡，眾生杂處局中緣，\n疾足鞋旁見弗散，綠茵場上戲連篇。\n\n勢如鷹擊長空翼，陽光下影交錯組，\n翹首鞭球越網去，觀者驚喜聲聲舉。\n身軀揮灑汗水飛，競技場中功夫鋪，\n盤旋交錯曲終始，人靜球動風情餘。",
+    "id": 2402723,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/411.jpg",
+    "paragraph": "The image features a man and woman playing a piano in a living room. There is a black grand piano located in the center of the room, with a couple sitting on either side of it. A chair is also present in the room, providing additional seating for the couple. Additionally, there are several potted plants scattered around the room, adding to the cozy atmosphere of the scene.",
+    "answer": "In a chamber where music gently resides,\nA grand piano, black as night, presides.\nA man and woman sit, as notes take flight,\nTheir fingers dance in harmony, pure and bright.\n\nSide by side they share the ivory keys,\nWeaving melodies like a gentle breeze.\nOne chair stands by, a silent invite,\nFor moments of rest or reflections quiet.\n\nAround them, life in green pots does bloom,\nIn the room's cozy, embracing womb.\nWith each plant a tender touch does grace,\nNature's artistry, the room's embrace.\n\nTogether they play, in tune, in sync,\nIn life's grand score, a precious link.\nTheir shared song fills the living space,\nIn the heart of home, love finds its place.\n\nSo let the music of life never wane,\nFor where there's love, sweet tunes remain.\nIn this living room, witness harmony's sweep,\nAs piano keys their sacred promise keep.",
+    "id": 411,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2349479.jpg",
+    "paragraph": "The image features a group of white cows grazing in a dry, grassy field. There are two cows on the left side of the scene, while another cow can be seen closer to the center of the frame. All of the cows appear healthy and well-groomed, with their coats appearing smooth and shiny. They are likely part of a herd that is grazing in the open field, enjoying the fresh air and sunlight.",
+    "answer": "在荒野綠意微，白牛群裡自閒適。\n側影牽二獸，中場更有獨影起。\n光澤漫背膚，平生養得神情麗。\n徜徉曠野間，日光空氣共嬉戲。\n\n此詩意境是白牛群在乾燥的草地上悠閒地吃草，身体健康，皮毛光滑閃亮，享受著大自然提供的新鮮空氣與溫暖陽光。詩中的“側影牽二獸”暗示左側有兩頭牛，“中場更有獨影起”則是指中央還有一頭牛的存在。整體上，牛群在寬廣的空間中自在地度過他們的日子。",
+    "id": 2349479,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2380372.jpg",
+    "paragraph": "The image depicts a woman playing tennis on a court. She is holding a tennis racket in her hand, ready to hit the ball with it. There are several chairs scattered around the court, some of which can be seen closer to the player. A couple of people can also be seen nearby, sitting and watching the game.",
+    "answer": "綠茵場上勁揮拍，\n白裝女將戰意開。\n球藍揚想風中舞，\n旁觀者靜賞心懷。\n\n椅散四周零落在，\n目隨彼此疾速迴。\n手握拍備下一擊，\n觀眾期盼美技來。",
+    "id": 2380372,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2348382.jpg",
+    "paragraph": "The image depicts two people walking down a mountain road with their umbrellas in hand. There is a small waterfall visible in the background, which adds to the picturesque scenery of the scene. The women are carrying various items on their backs, including bags and backpacks. They appear to be taking a stroll along the path, enjoying the beautiful scenery around them.",
+    "answer": "山徑幽深兩傘斜，\n濺瀑背景入畫遮。\n女子背囊行漫漫，\n繚繞小徑賞秋華。\n\n氤氳輕紗舞瀑邊，\n山風吹曳亦無言。\n踏歌而行消塵俗，\n樂此不疲美景延。",
+    "id": 2348382,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2401186.jpg",
+    "paragraph": "The image features a black and white scene with a person standing next to a bridge over a body of water. There is a shadow cast by the person, which can be seen in several places around the area. A small boat can also be seen floating on the water, providing a scenic view for the viewer.",
+    "answer": "江橋一影孤，\n身旁波瀾睡。\n水面舟輕漂，\n墨白畫中微。\n\n靜立千年風，\n橋邊獨我行。\n倒影於波上，\n時光縱橫情。\n\n小舟浮影中，\n漣漪散與合。\n黑白風景內，\n心繫此橋梁。\n\n潺潺流水語，\n影伴我獨立。\n橋上人如畫，\n舟行水自知。",
+    "id": 2401186,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2395543.jpg",
+    "paragraph": "The image depicts a man milking cows in a barn. There are two cows present in the scene, one of which is brown and the other white. A person can be seen kneeling down to milk the cows, while buckets are placed around the area.",
+    "answer": "在舊舍牛欄清晨裡，\n雙牛靜立帶和氣；\n一頭白如雲絮飄，\n一頭褐似秋泥濃。\n\n牧人膝下執銀瓶，\n手巧飛忙似蝶舞；\n白銀水珠落鐵桶，\n濺出甜音樂章節。\n\n乳香飄溢小屋間，\n鄉愁與牛鈴共緣；\n日出之前最純淨，\n此景平凡亦妙然。",
+    "id": 2395543,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2358710.jpg",
+    "paragraph": "The image features a double-decker bus traveling down a city street, with several people sitting on the side of the road. There is also a green grassy area in the background, providing a scenic backdrop for the scene. A number of cars can be seen scattered throughout the scene, including one that is located closer to the bus.",
+    "answer": "城市街道似錦繡，雙層巴士疾馳遊。\n青草如茵添景致，路旁人坐語笑柔。\n\n穿梭車輛繚亂中，幾分熱鬧幾分愁。\n近處輛車與巴相伴，人間繁華寫畫幽。\n\n時光匆匆行者過，靜看都市紛繁流。\n此景此情難忘記，心繫每個角落頭。",
+    "id": 2358710,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2380060.jpg",
+    "paragraph": "The image depicts a busy city street at night, with two red trolley cars traveling down the street. There are several people walking around the scene, some of them carrying bags and other items. A number of pedestrians can be seen in the background, as well as a couple of small children playing on the side of the road.",
+    "answer": "夜幕下城市街，霓虹織繁星。\n雙車經燈火，紅影快馳騁。\n人潮中行走，手提背囊情。\n來往多匆忙，街邊童趣生。\n\n燈光映馬路，小童戲耍間。\n忙碌渲畫面，交織悠長篇。\n鐵輪轉不息，夜深街更閑。\n城市生活譜，夜色裏繁繁。",
+    "id": 2380060,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2359732.jpg",
+    "paragraph": "The image depicts a restaurant with a large kitchen area, complete with a variety of cooking tools and equipment. There is a television located in the middle of the room, as well as a number of bowls scattered throughout the space. Additionally, there is a small table placed near the counter, which could be used to serve customers.",
+    "answer": "炊煙澹澹起廚間，\n鍋碗瓢盆列陳山。\n醒目屏風映俗塵，\n酌客饗宴待佳肴。\n\n電波傳聞笑語喧，\n桌前瑣碎盡收眼。\n繁忙所為盼暖心，\n一爐香飄客意添。",
+    "id": 2359732,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2349051.jpg",
+    "paragraph": "The image depicts a group of people enjoying an elephant bathing session in the water. There are three men present in the scene, with one sitting on the back of the elephant while the other two stand near it. One of the men can be seen standing closer to the elephant, while the other man is further away from it. All of the individuals appear to be having a good time as they interact with the elephant and enjoy its company.",
+    "answer": "江畔樂無窮，象浴水波中。\n三士共歡聚，其樂融融。\n\n背載一人坐，威儀似將軍。\n近立護畔侍，遠者笑語群。\n\n獸王展嬉戲，浪花隨步重。\n人象共洗塵，笑聲滿風松。\n\n寬心與樂融，此景良宜同。\n忘卻煩華世，共享此清風。",
+    "id": 2349051,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2391547.jpg",
+    "paragraph": "The image features several suitcases stacked on top of each other in a room with a stone wall. The suitcases are arranged in a row, creating a striking visual effect. There are four different types of suitcases present in the scene, including two brown and one blue suitcase. All of the suitcases appear to be in good condition, with some showing signs of wear and tear.",
+    "answer": "行李疊塔入石室，青褐交錯映斑駁。\n四種形狀列端正，錯落有致展風格。\n\n皮革裹身曾遠行，歲月斑駁訴過往。\n藍色孤單夾雜中，講述旅途幾多愁。\n\n每件行囊各自語，沉甸甸的是故事。\n房間角落靜默裡，堆疊成了時間巷。\n\n室如靜境行如錄，石壁裡頭傳輕語。\n旅人心事誰得知？疊成山丘夢初熟。",
+    "id": 2391547,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2395940.jpg",
+    "paragraph": "The image depicts a woman pulling a sled down a snowy path. She is holding a backpack, which can be seen on her left side and closer to the center of the image. There are several bags scattered around the scene, including one in the middle of the road.",
+    "answer": "瑞雪紛飛蓋斜徑，\n一女孴孴拖行輕。\n左膊背囊藏故事，\n中路孤包靜自橫。\n\n松枝低垂白霜重，\n斷蹤殘痕入畫屏。\n頸後風寒猶未覺，\n心懷遠夢向前程。",
+    "id": 2395940,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2406466.jpg",
+    "paragraph": "The image depicts two zebras in an enclosure, with one of them standing close to the camera. There are also several rocks scattered around the area, creating a natural habitat for the animals. A tree can be seen in the background, providing shade and shelter for the zebras.",
+    "answer": "縞馬戲石間遊，\n林蔭輕送涼風休。\n近鏡生輝斑馬立，\n遠樹搖影作棲幽。\n\n斑紋如畫藝匠妙，\n囿內隨形配石榴。\n草原情景雖可親，\n籠裡何曾是蒼茫。",
+    "id": 2406466,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2391489.jpg",
+    "paragraph": "The image features a person holding an orange and yellow umbrella in the middle of a green forest. The person is standing on a hill with trees surrounding him, creating a picturesque scene for the viewer. There are several other objects scattered around the scene, including a backpack, a bag, and a pair of sunglasses.",
+    "answer": "綠樹幽林中立境，\n橙黃雨傘映山影。\n行人斜坡上孤峰，\n背囊與眼鏡亂石擱。\n\n林間光斑點點舞，\n翠幕無邊天地隔。\n行者靜享絕美景，\n心旅遠漫隨風樂。",
+    "id": 2391489,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2371654.jpg",
+    "paragraph": "The image features a blue and white bird perched on a branch of a tree, with green leaves surrounding it. The bird is sitting in the middle of the tree, facing towards the left side of the scene. There are several branches scattered around the tree, providing ample space for the bird to sit and perch.",
+    "answer": "翠枝搖曳碧雲間，\n碧翅輕擺安然坐。\n林深鳥語聲相引，\n碧葉環抱清風遮。\n\n左望靜思天地寬，\n枝頭棲息好閑閑。\n天際飛翔心自在，\n一枝一葉畫中看。",
+    "id": 2371654,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2414241.jpg",
+    "paragraph": "The image depicts two surfers riding a wave in the ocean. They are wearing wetsuits and standing on their surfboards as they ride the waves, creating a fun scene for the viewers. There are several other people present in the scene, including one person who is closer to the shore.",
+    "answer": "碧波銀線兩衝浪，\n翼衣養志俱雙雙。\n滑板掌風馳海面，\n戲水群英樂盈堂。\n\n岸邊獨立影微揚，\n觀者心隨起浪長。\n天與壯觀無窮限，\n海中遨遊任逍遙。",
+    "id": 2414241,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2323826.jpg",
+    "paragraph": "The image depicts a group of people playing frisbee on a grassy field in the rain. A man is jumping up to catch a frisbee, while several other people can be seen scattered around the area. There are also some benches and chairs present in the scene, providing additional seating for spectators.",
+    "answer": "綠野雨中樂未休，\n飛盤輪舞戲風流。\n雲低人影添躍動，\n潤草新香承足柔。\n\n躍者騰空如鶴舞，\n旁觀坐椅靜觀秋。\n笑聲划破濕氣重，\n不減遊心任雨收。",
+    "id": 2323826,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2411942.jpg",
+    "paragraph": "The image depicts a group of zebras standing in a dirt field near a watering hole. There are three zebras, two on the left side and one on the right side of the scene. Each zebra has its own unique pattern, which can be seen clearly in the image. The zebras appear to be well-socialized with each other, as they interact and interact with each other freely. Additionally, there is a small tree nearby, providing shade for the zebras.",
+    "answer": "草原邊緣水潭旁，三影斑馬共嬉場。\n左二右獨構幽景，黑白斑紋各自揚。\n\n諧群縱橫交錯步，解語微風易情長。\n樹掩微蔭營涼地，和風細水悅心腸。\n\n游目間斑斕畫卷開，自在輕鬆譜行藏。\n相依相伴野性中，生態和鳴譜新章。",
+    "id": 2411942,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2387321.jpg",
+    "paragraph": "The image depicts a living room with a television, a cat, and several bottles of wine. There is also a bottle of red wine on the floor near the TV stand, which can be seen in the foreground. Other objects are scattered around the room, including a pair of glasses, a book, and a vase.",
+    "answer": "在無垠的客廳角，\n銀幕閃電靜默妙。\n瓶盈瓶影紅醇地，\n猫眠座椅夢繞繚。\n\n地板酒樽添些意，\n眼鏡與書共話清。\n一瓶玉液倒影中，\n花瓶靜立頗靈盈。\n\n此情此景悠然寓，\n歲月斂息喧囂外。\n四周碎物鋪疏影，\n家的溫馨隱微塵。",
+    "id": 2387321,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2352775.jpg",
+    "paragraph": "The image depicts a group of planes flying in the sky, creating a stunning scene. There are at least 12 planes in the air, with some scattered around the field and others closer to the trees. Some of the planes appear to be larger than others, suggesting that they are part of a larger formation. Additionally, there are several people present in the scene, including one who is standing near the middle of the field.",
+    "answer": "天際畫壇展錦繍，\n群機翔集勢雄偉。\n十二群英騰氣勢，\n或近樹梢或野飛。\n\n巨鳥小雀排陣列，\n編織長空入夢裡。\n田野一人立中央，\n凝視天際情綿綿。",
+    "id": 2352775,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K_2/2414436.jpg",
+    "paragraph": "The image depicts a festive scene in a modern building, featuring a large clock and several decorations. There are three soldiers standing on the top of the clock, with one located closer to the center of the room. Two more soldiers can be seen near the bottom of the clock, while another soldier can be found towards the right side of the room. In addition, there are two christmas trees placed at the top of the clock, creating a festive atmosphere for the space.",
+    "answer": "In a hall where time's giants stand,\nA festive cheer spreads through the land.\nThree soldiers, guardians of the clock,\nTheir silhouettes like steady rock.\n\nOne, centered 'neath the ticking hands,\nOversees the joyful bands.\nTwo comrades close to where time sleeps,\nTheir vigil by the gears they keep.\n\nBelow, their brethren mark the hours,\nEmpowered by the festive powers.\nAnother stands, a watchful knight,\nTo the room's right, he guards the night.\n\nAtop where hours and minutes race,\nTwo trees in Yuletide's embrace.\nTwinkling lights and ornaments gleam,\nReflecting in time's endless stream.\n\nA modern space touched by the old,\nWhere soldiers in their post hold bold.\nThe clock, the trees, the festive hue,\nBind the season's grace anew.\n\nAmidst the laughter, warmth, and chimes,\nThe soldiers spend their silent times.\nBut even they seem to decree\nA merry dance with time's marquee.",
+    "id": 2414436,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2319631.jpg",
+    "paragraph": "The image depicts a skateboarder performing a trick in the air at a skate park. There is a man in black shirt riding a skateboard, while several other people can be seen around him. He is flying through the air as he performs various tricks on his skateboard. A number of people are also present in the scene, including two men and a woman.",
+    "answer": "在碧空下滑板舞翩躚，\n黑衫士子騰飛極限境。\n旁觀者立，男兩女單影，\n翻轉飛躍，驚豔眾目睛。\n\n樂園內技巧逐風斬，\n板上少年如鳥翼展。\n彩色滑道譜青春劇，\n熱血滾滾，生命激奏篇。",
+    "id": 2319631,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2361987.jpg",
+    "paragraph": "The image features a seagull flying over a large body of water with several boats in the background. There is also a small island visible in the distance, suggesting that the birds are enjoying the beautiful scenery.",
+    "answer": "海鷗翔宇度波心，舟影疊翠隔煙深。\n島影遙隱天水際，翠巒如畫入畫心。\n\n翼舒風浪任東西，掠海尋魚萬頃綺。\n暮色沉沉蘸天碧，海天一色鷗歡騁。",
+    "id": 2361987,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2370402.jpg",
+    "paragraph": "The image depicts two chairs on a beach, with an umbrella covering one of the chairs. Two people are sitting in the chairs under the umbrella, relaxing and enjoying the view of the ocean. There is also a towel placed near the chairs, providing additional shade for the visitors.",
+    "answer": "海滩边，沙间两椅凭，\n伞遮一席，逸趣融融生。\n旅人各栖息，望海浪涌，\n悠然共此景，闲情逸致甚。\n\n潮声伴晚风，话语轻柔送，\n天蓝海更蓝，心与景交融。\n沙巾拂地铺，添阴静享凉，\n时光慢悠悠，此刻永恒藏。\n\n诗意画中寻，椅下闲话绵，\n听涛声里寄，遥想无尽天。\n沐日休闲客，笑脸映晚照，\n忘却尘世缠，海岸梦中漂。",
+    "id": 2370402,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2374364.jpg",
+    "paragraph": "The image depicts a group of people walking down a sidewalk with umbrellas in hand. There are three women, two men and one woman, all holding their umbrellas as they walk along the path. They are enjoying the sunny weather while strolling through the city. One man can be seen carrying a bag on his shoulder, while another man is closer to the center of the scene.",
+    "answer": "雨後陽光悄欲頃，\n並肩行人傘下行。\n男挑重擔肩旁繫，\n都市漫步悠然情。\n\n女士輕柔擎彩蓋，\n兩男相伴樂融融。\n小徑依稀人煙散，\n笑語伴隨陽光中。",
+    "id": 2374364,
+    "is_test": true
+  },
+  {
+    "url": "https://cs.stanford.edu/people/rak248/VG_100K/2361213.jpg",
+    "paragraph": "The image depicts a busy city street with several people walking around. There is a red trolley bus traveling down the street, which can be seen in the foreground and on the right side of the scene. A number of bags are scattered throughout the scene, including one bag that is closer to the center of the image.",
+    "answer": "繁華街頭行人疾，\n紅車輪聲隔煙霧。\n提包散落喧囂中，\n一袋孤立話蕭條。\n\n綠樹隱映樓台影，\n街燈點綴夜色多。\n城市律動隨風轉，\n擁擠生活漫長坡。",
+    "id": 2361213,
+    "is_test": true
+  }
+]
