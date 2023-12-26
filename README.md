@@ -1,4 +1,4 @@
-# 112-1_ADL_Final
+# 112-1 ADL_final_project Group33
 ## Abstract
 We have developed a project that processes images to generate a piece of music and a poem,capturing the essence of the image. We referto it as ShotGMP — "Take a shot to Generate Music & Poem." Our approach involves combining three models into a pipeline to generate poems and music from images. Furthermore, we have prepared additional datasets to enhance the capabilities of our pipeline. The core of this project is to deliver a project capable of producing high-quality poems and music that suit the given image, while maintaining a model size reasonable enough for most people to run withease.
 
