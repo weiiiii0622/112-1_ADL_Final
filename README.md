@@ -107,3 +107,47 @@ To demonstrate how we generate data via GPT4-API, see [gen.ipynb](./gpt_data/gen
 ```
 ### How to Run
 To demonstrate how we fine-tune Llama2, see [Llama README](./llama/README.md).
+
+## Poem Translation Fine-Tune
+Fine-tune Baichuan2-13B-Chat to translate Chinese poem into English paragraph. The generated paired data can be served as the training data of Llama-2.
+
+### Folder Structure
+Folder structure after executing train.py and predic.py.
+``` bash
+├── README.md
+├── human_translated_data
+│   └── poem.json
+├── output
+│   ├── translation.json
+│   ├── adapter_model
+│   │   ├── adapter_config.json
+│   │   └── adapter_model.bin
+│   └── other output files
+├── requirement.txt
+├── train.py
+└── predict.py
+```
+
+### Environment setup
+```
+python -m venv env
+source env/bin/activate
+pip install -U -r requirements.txt
+```
+
+### How to run
+```bash
+// Fine-tune
+python train.py \
+  --model_name_or_path /path/to/baichuan2-13B-Chat \
+  --output_dir output \
+  --max_steps 30 \
+  --train_dataset /path/to/train_data.json
+
+// Translate
+python predict.py \
+  --base_model_path /path/to/baichuan2-13B-Chat \
+  --peft_path output/adapter_model \
+  --test_data_path human_translated_data/poem.json  \
+  --output_file output/translation.json
+```
