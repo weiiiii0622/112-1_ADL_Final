@@ -1,0 +1,7 @@
+[
+  {
+    "url": "19.jpg",
+    "instruction": "Generate a chinese poem for the following scenario:\n The image depicts a picturesque winter scene with a snow-covered landscape and several wooden houses in the background. There is also a small pond, which can be found near the middle of the scene. The house on the left side of the photo is located closer to the pond, while the one on the right side is further away from the pond.\nOutput:\n",
+    "output": "碧空雪覆林巍，滑玉露池見方依。\n木屋分左右影間，小世界藏四野地。"
+  }
+]

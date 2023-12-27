@@ -1,0 +1,137 @@
+[
+  {
+    "url": "1.jpg",
+    "instruction": "Generate a chinese poem for the following scenario with rhyme in the last word of every two sentence:\n The image depicts a city park at night, with a lake in the background. There are several buildings visible in the foreground, including a tall building and a smaller one located near the water. A large number of people can be seen walking around the park, enjoying the beautiful evening scenery.\nOutput:\n",
+    "output": "城邊夜幕長湖光，高牆低屋入林沟。\n人行街頭話較靜，遠望星空添意宇。"
+  },
+  {
+    "url": "13.jpg",
+    "instruction": "Generate a chinese poem for the following scenario with rhyme in the last word of every two sentence:\n The image features a large christmas tree in the middle of a city square, with snow falling around it. There is a woman standing near the tree, while several other people can be seen walking around the area. The scene captures the atmosphere of a festive holiday celebration, complete with decorations and lights surrounding the tree.\nOutput:\n",
+    "output": "雪下城郭大樹，寒光映夜色新。\n赫然景緻中心立女子，人來行去邊影繚亮。"
+  },
+  {
+    "url": "21.jpg",
+    "instruction": "Generate a chinese poem for the following scenario with rhyme in the last word of every two sentence:\n The image features a view of the forbidden city, with numerous buildings and people walking around. There are several cars in the scene, including one that can be seen closer to the center of the image. Additionally, there are several motorcycles scattered throughout the scene, providing an interesting contrast to the urban setting.\nOutput:\n",
+    "output": "禁城斜陽透徹林，\n四方人俱萬里中。\n車馬交錯路旋行，\n機影舞風自如飛。\n近衛居然金色立，\n御前列官共雲靈。"
+  },
+  {
+    "url": "7.jpg",
+    "instruction": "Generate a chinese poem for the following scenario with rhyme in the last word of every two sentence:\n The image depicts a white plate with a cupcake on it, along with a cup of coffee and a bottle of water. The cupcake is decorated with a pumpkin-shaped frosting, which adds a festive touch to the overall scene. There is also a small bowl placed next to the cupcake, providing additional space for the dessert.\nOutput:\n",
+    "output": "碧壁映艾黄饼，一片白玉添雅。\n香滋入佳作夢花，果心藏金代秋夕。\n波光水响清微泉，共此時分喜無涯。"
+  },
+  {
+    "url": "15.jpg",
+    "instruction": "Generate a chinese poem for the following scenario with rhyme in the last word of every two sentence:\n The image depicts a large church with an impressive organ in the background. There are several benches scattered throughout the interior of the church, some of which can be found closer to the center of the room. A number of people can be seen sitting on the benches and enjoying their time inside the church.\nOutput:\n",
+    "output": "巍盤影靜中堂，\n大教會一場高。\n木檻長歌天地間，音聲交流人和。\n遠望聖曲引雲起，機管如河上舞章。\n近座伴侶語風雅，話心情切時光波。\n石屏添清香微入口，共此安然景好在。"
+  },
+  {
+    "url": "17.jpg",
+    "instruction": "Generate a chinese poem for the following scenario with rhyme in the last word of every two sentence:\n The image depicts a crowd of people in front of the Great Pyramid of Giza. There is a man riding on a camel near the pyramid, while several other people can be seen walking around the area. A number of bags are also present in the scene, suggesting that there may be many travelers in the area.\nOutput:\n",
+    "output": "橙塵霓裳古大影，熾天光下人海景。\n石山生成奇工夫，乘象士子行色風。\n岩立高塔如宇皇，列車雲集時空深。\n沙中足跿多航客，世界之角見真心。"
+  },
+  {
+    "url": "10.jpg",
+    "instruction": "Generate a chinese poem for the following scenario with rhyme in the last word of every two sentence:\n The image features a colorful drawing of a pink bunny with a festive crown on top of a doughnut. The bunny is placed in the center of the scene, while several other donuts can be seen scattered around the area. There is also a red and green balloon near the bunny, which adds to the festive atmosphere of the scene.\nOutput:\n",
+    "output": "在饰笔下，春光滴溉胶土地。\n彩线依兀展乐箱，一花白塔居中国。\n猫头小斑影添活力，碧玉环首加奇数式。\n周边黄金星流传身，红青双舞更喜日月之。"
+  },
+  {
+    "url": "14.jpg",
+    "instruction": "Generate a chinese poem for the following scenario with rhyme in the last word of every two sentence:\n The image depicts a winding road in the forest, with tall trees surrounding it. There is a wooden fence along the side of the road, creating a barrier between the two sides of the road. It can be assumed that the road is part of a hiking trail, as there are several benches scattered throughout the scene.\nOutput:\n",
+    "output": "林深道險徑迂回，丹青紅桐相望期。\n松闌分明一街角，行人坎立石梯起。\n長野交接竹影流不同，木柵間成森之界。\n植被密布山光斜入目—遇時共此心意。"
+  },
+  {
+    "url": "20.jpg",
+    "instruction": "Generate a chinese poem for the following scenario with rhyme in the last word of every two sentence:\n The image depicts a picturesque view of the waterfront in Mykonos, Greece. There is a row of tables and chairs along the shoreline, with several blue-colored buildings surrounding the area. A small boat can be seen floating in the background, adding to the tranquil atmosphere of the scene.\nOutput:\n",
+    "output": "碧波沿岸長桌角，水光轉影透風廊。\n城立青屋如連海，伴時小木橫天空。"
+  },
+  {
+    "url": "16.jpg",
+    "instruction": "Generate a chinese poem for the following scenario with rhyme in the last word of every two sentence:\n The image features a large building with an ornate facade and several people standing around it. There are two bicycles in the scene, one on the left side of the building and the other on the right side. A person can be seen walking along the street near the building, while another person can be seen sitting on a bench nearby.\nOutput:\n",
+    "output": "翠杰大宅立，雕花蔚玉華。\n左車右影共，行人街上老。\n石亭一角添雅風景色香，\n清客語音小而長。"
+  },
+  {
+    "url": "5.jpg",
+    "instruction": "Generate a chinese poem for the following scenario with rhyme in the last word of every two sentence:\n The image features a large, white Christmas tree in the middle of a city square. It is decorated with snowflakes and lights, creating a festive atmosphere for passersby to enjoy. There are several people present in the scene, including two men and one woman. They are standing near the center of the building, where the christmas tree can be seen from a distance.\nOutput:\n",
+    "output": "雪花落银杏间，灯火光中白松。\n城广庭前奇樹立，夜色伴歌人共心。\n男子女郎同情目送，喜华放月思長津。"
+  },
+  {
+    "url": "2.jpg",
+    "instruction": "Generate a chinese poem for the following scenario with rhyme in the last word of every two sentence:\n The image depicts a group of people sitting at a wooden table, working on their laptops. There are two men present in the scene, one holding a cell phone and the other using a laptop. A cup can be seen placed near the table, providing additional support for the workers.\nOutput:\n",
+    "output": "桌前簇書光影共，木舟停風思無言。\n手機持男語静默，電台侶客情交通。\n線下文字如泉流，世界連接任何人。\n散家香水添清雅，一滴時代在心間。"
+  },
+  {
+    "url": "3.jpg",
+    "instruction": "Generate a chinese poem for the following scenario with rhyme in the last word of every two sentence:\n The image depicts a view of the city from a balcony overlooking the surrounding buildings. There are several clouds in the sky, creating a beautiful atmosphere for the scene. Additionally, there is a large number of people scattered throughout the scene, including two men and one woman.\nOutput:\n",
+    "output": "城郊望雲天光渺，繁華巍山與建物連。\n依高台上清風起，人海星河共一景展。\n男女三影如流水，各自行動在生活中。\n居屋相思或何止？遠方云和入目前。"
+  },
+  {
+    "url": "26.jpg",
+    "instruction": "Generate a chinese poem for the following scenario with rhyme in the last word of every two sentence:\n The image depicts a busy city square, with several people walking around the area. There is a clock tower visible in the background, which can be seen as a landmark in the scene. A number of cars are also present in the scene, including one that is closer to the building and another located further away. Overall, the scene offers a glimpse of a bustling urban environment.\nOutput:\n",
+    "output": "城市繁華一隅，數影匆走街角。\n時光仍流塔影立，古風添意近遠波。\n四車交集場中舞，人間花生夢飛揮。\n行雲起及其方向，長龍不息都是高。"
+  },
+  {
+    "url": "24.jpg",
+    "instruction": "Generate a chinese poem for the following scenario with rhyme in the last word of every two sentence:\n The image depicts a lush, green park with palm trees in the background. There is also a bench placed on the grass near the center of the scene, adding to the tranquility of the scene. The setting sun can be seen behind the trees, creating a beautiful silhouette against the sky.\nOutput:\n",
+    "output": "碧草如茵廣漫無際，佇影添雅園中座時。\n長木遠望天線清然意；日色黃金後花已成空。"
+  },
+  {
+    "url": "19.jpg",
+    "instruction": "Generate a chinese poem for the following scenario with rhyme in the last word of every two sentence:\n The image depicts a picturesque winter scene with a snow-covered landscape and several wooden houses in the background. There is also a small pond, which can be found near the middle of the scene. The house on the left side of the photo is located closer to the pond, while the one on the right side is further away from the pond.\nOutput:\n",
+    "output": "絳冷霓雪地，木屋於松林中。湖光相融白月間，小山添雅風情深。左居近池影長在，右別遠家依岩高。"
+  },
+  {
+    "url": "23.jpg",
+    "instruction": "Generate a chinese poem for the following scenario with rhyme in the last word of every two sentence:\n The image depicts a park with several trees and a bench in the background. There is also a street light located in the middle of the scene, adding to the overall visual appeal of the scene. In addition to the bench, there are several other benches scattered around the park, providing ample space for people to relax and enjoy the scenery.\nOutput:\n",
+    "output": "留憩伴月夕，靜觀樹影秋。\n街頭明火間立，煌光下翠意生。\n長園添安雅景，木座列成夢中行。"
+  },
+  {
+    "url": "9.jpg",
+    "instruction": "Generate a chinese poem for the following scenario with rhyme in the last word of every two sentence:\n The image depicts a small robot on a wooden table. It is composed of various wires and components, making it look like a fully functional machine. There are several bags scattered around the table, including one that is placed closer to the center of the room.\nOutput:\n",
+    "output": "小机械木筑坐，随意举手诠春。\n线条交错任情操，电光舞动思航行。\n四周布包一中居，藏品如星無人望。"
+  },
+  {
+    "url": "12.jpg",
+    "instruction": "Generate a chinese poem for the following scenario with rhyme in the last word of every two sentence:\n The image depicts a beautiful beach with clear waters and lush greenery surrounding it. There is a large, sandy beach in the background, which can be seen from an elevated position. A few trees can be seen scattered throughout the scene, adding to the natural beauty of the scene.\nOutput:\n",
+    "output": "海茵綠，潟水波光明。幾株樹影隨風移，遠山沙洲添長空中夢？\n月色流年如銀石下；日亦在青天作金字書。\n一望此景何足思量！清林周立白雲間生華陽。"
+  },
+  {
+    "url": "22.jpg",
+    "instruction": "Generate a chinese poem for the following scenario with rhyme in the last word of every two sentence:\n The image features a crowd of people attending a concert in a dark venue. There is a large group of people present, with some standing and others sitting around the stage. A number of people can be seen taking photos or recording videos from their seats. In addition, there are several lights scattered throughout the room, creating a lively atmosphere for the event.\nOutput:\n",
+    "output": "異景映群影，黑館聲彈金。\n光線点斜地上，座客自如心香。\n人海立台舞起伏，場中風情不同。\n相機指火電波外，夜未分明時長。"
+  },
+  {
+    "url": "4.jpg",
+    "instruction": "Generate a chinese poem for the following scenario with rhyme in the last word of every two sentence:\n The image features a group of people working on laptops at a wooden table. There are two women, one wearing a face mask and the other holding a handbag in her hands. They are both using their laptops to complete various tasks while sitting at the table. There is also a book lying on the table, which could be used as a reference or reading material.\nOutput:\n",
+    "output": "在木案笔尖齐，女子面纱伴影。手提世界藏背后方向思量未放了。電光一片夜深不可入云外；书本如水添生機理常存今日情景中心事已无渠通之物，或作指路去者自由時序的分割線上。"
+  },
+  {
+    "url": "27.jpg",
+    "instruction": "Generate a chinese poem for the following scenario with rhyme in the last word of every two sentence:\n The image depicts a street scene at night, with several benches scattered around the area. There is also a lamp post in the foreground, adding to the overall ambience of the scene. In addition, there are multiple lights hanging from the ceiling, creating a festive atmosphere throughout the scene.\nOutput:\n",
+    "output": "滄海燈火錦幕下，街角石長夜深裏。\n椅如星章添雅時光，一線交流情未知來？\n地明天若金池影間的話或不然? —— 李白"
+  },
+  {
+    "url": "6.jpg",
+    "instruction": "Generate a chinese poem for the following scenario with rhyme in the last word of every two sentence:\n The image features a cat resting on a ledge near a sidewalk, with several people walking around the area. The cat can be seen laying down in various positions, and is likely sleeping or relaxing as it waits for its owner to come home. There are several bags scattered throughout the scene, including one bag that is closer to the cat.\nOutput:\n",
+    "output": "碧巖晨光逸臥角，巴士行人不省堂。\n一幕伴情無言語，四周世界自香港。\n石牆上貓身曲時，街景悠然有所藏。\n旅客路經此地會？或是天子之去方。"
+  },
+  {
+    "url": "25.jpg",
+    "instruction": "Generate a chinese poem for the following scenario with rhyme in the last word of every two sentence:\n The image depicts a library at night, with a large number of books displayed on shelves. There is also a chair placed in the middle of the room, which can be seen as a seating area for patrons to sit and read. Additionally, there are several chairs scattered around the room, providing additional seating options for patrons.\nOutput:\n",
+    "output": "夜室書香溢，光照雕思量。\n木立典藏千古論舊今常；\n有框中堂依然人影連。\n無言共此安風景添意色？\n一行置居心對話長白秋水青天下…"
+  },
+  {
+    "url": "8.jpg",
+    "instruction": "Generate a chinese poem for the following scenario with rhyme in the last word of every two sentence:\n The image features a large waterfall in the middle of a lush forest. There is a bench located near the water, and several trees can be seen surrounding the scene. A person can be seen sitting on the bench, enjoying the beautiful view of the waterfall.\nOutput:\n",
+    "output": "碧巖中途添泉，林色茂展澹情。\n清流飛下森深藏，長影伴人何足省？\n木間一座意香任重，畫現古風自得春。"
+  },
+  {
+    "url": "11.jpg",
+    "instruction": "Generate a chinese poem for the following scenario with rhyme in the last word of every two sentence:\n The image depicts a Chinese-style building in the middle of a busy street. There is a large, brick-paved pathway leading to the building, which features several potted plants and flowers. A number of people can be seen walking around the building, some of them carrying bags or umbrellas.\nOutput:\n",
+    "output": "臨街巍然古牆前，滿塘土草情長年。\n路石大道人流多，雜徑客行伴陽光。\n花木立中添雅色，門洞深重風影新。\n巴士飛車如水金，生活百事都在心。"
+  },
+  {
+    "url": "18.jpg",
+    "instruction": "Generate a chinese poem for the following scenario with rhyme in the last word of every two sentence:\n The image depicts a snowy winter scene with a person walking down a snow-covered path. There is a single tree in the middle of the pathway, while several other trees can be seen scattered around the area. A person is standing in the middle of the walkway, and there are multiple trees surrounding him or her, creating a picturesque scene.\nOutput:\n",
+    "output": "雪林煙裏行孤楊，路中樹立少松間。\n天光露添白無限，人影伴風送秋寒。"
+  }
+]
