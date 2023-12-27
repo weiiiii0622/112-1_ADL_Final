@@ -116,6 +116,7 @@ Folder structure after executing train.py and predic.py.
 ``` bash
 ├── README.md
 ├── human_translated_data
+│   ├── get_poem.ipynb
 │   └── poem.json
 ├── output
 │   ├── translation.json
