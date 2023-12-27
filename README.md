@@ -59,7 +59,7 @@ python3 InstructBlip_inference.py \
 └── musicgen.ipynb
 ```
 ### How to Run
-To employ MusicGEN, plesae check [MusicGen README](./musicgen/README.md).
+To employ MusicGEN, please check [MusicGen README](./musicgen/README.md).
 
 ## GPT4-API Generated Data
 ### Folder Structure
