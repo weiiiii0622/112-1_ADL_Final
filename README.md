@@ -2,6 +2,11 @@
 ## Abstract
 We have developed a project that processes images to generate a piece of music and a poem,capturing the essence of the image. We referto it as ShotGMP — "Take a shot to Generate Music & Poem." Our approach involves combining three models into a pipeline to generate poems and music from images. Furthermore, we have prepared additional datasets to enhance the capabilities of our pipeline. The core of this project is to deliver a project capable of producing high-quality poems and music that suit the given image, while maintaining a model size reasonable enough for most people to run withease.
 
+## Work-Flow
+This is the workflow for ShotGMP. We first take some pictures, then use these pictures as input for InstructBLIP. InstructBLIP will output "Paragraph (in English)" and "Suitable Prompts" for Llama-2 and MusicGen respectively. Lastly, Llama-2 will output our poem and MusicGen will generate the music for the picture based on the InstructBLIP's input.
+
+<img width="608" alt="from_canva" src="https://github.com/weiiiii0622/112-1_ADL_Final/assets/69110733/eec919e0-c770-4381-a7e3-cd307707523e">
+
 
 ## - InstructBLIP
 
