@@ -1,5 +1,17 @@
 # Prompts
-### - ver.1
+
+### blip2_gen_stanford.json
+
+```python
+prompts = {
+    'where': "Question: Where is this place? Answer:",
+    'what': "Question: What is in here? Answer:",
+    'emotion': "Question: Which emotion is here? Answer:",
+    'activity': "Question: What thing is happening? Answer:",
+}
+```
+
+### InstructBlip_ver2.json
 
 ```python
 prompts = {

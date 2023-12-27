@@ -1,6 +1,0 @@
-prompts = {
-    "time": "Question: What time period does it represent? Answer:",
-    "emotion": "Question: What emotions do you think the person taking this image is experiencing? Answer:",
-    "music_style": "Question: Describe the music style. Answer:",
-    "sound": "Question: Describe the sound. Answer:",
-}
