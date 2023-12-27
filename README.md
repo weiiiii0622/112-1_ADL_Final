@@ -51,3 +51,28 @@ python3 InstructBlip_inference.py \
   --column_name "YOUR IMAGE COLUMN NAME IN .csv FILE" \
   --output_path "YOUR OUTPUT .json PATH"
 ```
+
+## MusicGen
+### Folder Structure
+``` bash
+├── README.md
+└── musicgen.ipynb
+```
+### How to Run
+To employ MusicGEN, plesae check [MusicGen README](./musicgen/README.md).
+
+## GPT4-API Generated Data
+### Folder Structure
+``` bash
+├── README.md
+├── raw
+│   ├── README.md
+│   ├── gpt4_1k_1.json
+│   └── gpt4_1k_2.json
+├── gen.ipynb
+├── gp4_1434.json
+├── prompt.ipynb
+└── prompt_gpt4_1434.json
+```
+### How to Run
+To demonstrate how we generate data via GPT4-API, see [gen.ipynb](./gpt_data/gen.ipynb).
