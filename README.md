@@ -76,3 +76,34 @@ To employ MusicGEN, plesae check [MusicGen README](./musicgen/README.md).
 ```
 ### How to Run
 To demonstrate how we generate data via GPT4-API, see [gen.ipynb](./gpt_data/gen.ipynb).
+
+## Llama2 Fine-tune
+### Folder Structure
+``` bash
+├── Poem_Demo
+│   ├── gpt_prompt_demo_rhyme_words.json
+│   ├── gpt_prompt_demo_rhyme.json
+│   ├── gpt1epoch.json
+│   ├── gpt2epoch.json
+│   ├── gpt5epoch.json
+│   ├── gpt10epoch.json
+│   ├── gptAndTaiwan.json
+│   ├── gptTranslate_2epoch.json
+│   ├── gpt1334AndLLAMA.json
+│   └── steps_evaluation.json
+├── Source
+│   ├── config_tranlate.yml
+│   ├── convert_llama_weights_to_hf.py
+│   ├── mergedPoemDataset.json
+│   ├── dataToTune.py
+│   └── test.json
+├── Poem_Standard
+│   ├── output_poem_gpt.json
+│   ├── output_poem_llama_chinese_0_14.json
+│   ├── output_poem_llama_chinese.json
+│   └── output_poem.json
+└── README.md
+
+```
+### How to Run
+To demonstrate how we fine-tune Llama2, see [Llama README](./llama/README.md).
